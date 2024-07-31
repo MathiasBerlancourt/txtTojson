@@ -1,0 +1,686 @@
+[
+    {
+        "jobsIds": [
+            91233
+        ],
+        "partnerId": 405,
+        "auctionId": 3568278807518645000,
+        "auctionDateTime": "2024-07-30T14:52:33.228Z",
+        "auctionNetworkId": 3050,
+        "auctionSiteId": 629256,
+        "auctionPageId": -1,
+        "auctionFormatId": 0,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 0,
+        "auctionImpressionType": 0,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "dddc0283-7fe1-466a-9ce9-103536ba99f5",
+            "imp": [
+                {
+                    "id": "90fce4f1-680c-46b5-8f3b-e41dfc88f8f3",
+                    "banner": {
+                        "w": 320,
+                        "h": 480,
+                        "pos": 3,
+                        "battr": [
+                            1,
+                            3,
+                            8,
+                            9,
+                            10,
+                            14,
+                            17
+                        ],
+                        "mimes": [
+                            "text/html"
+                        ],
+                        "api": [],
+                        "format": [
+                            {
+                                "w": 320,
+                                "h": 480
+                            },
+                            {
+                                "w": 120,
+                                "h": 600
+                            },
+                            {
+                                "w": 160,
+                                "h": 600
+                            }
+                        ]
+                    },
+                    "tagid": "6560c24bbda68b000784895a",
+                    "bidfloor": 0.2,
+                    "bidfloorcur": "USD",
+                    "instl": 0,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "bdf824e2-fd15-4775-bec9-da00ec8ce46a",
+                        "to": 3
+                    }
+                }
+            ],
+            "site": {
+                "id": "629256",
+                "cat": [
+                    "IAB5"
+                ],
+                "name": "US_bestcrosswords.com",
+                "domain": "bestcrosswords.com",
+                "pagecat": [
+                    "IAB5"
+                ],
+                "page": "https://www.bestcrosswords.com/bestcrosswords/guestconstructor/GuestConstructorPuzzle.external?sp=S290315",
+                "publisher": {
+                    "id": "3050",
+                    "name": "Seedtag"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+                "ip": "107.212.20.81",
+                "geo": {
+                    "country": "USA",
+                    "region": "FL",
+                    "city": "orlando",
+                    "zip": "32827",
+                    "type": 2,
+                    "lat": 28.42548,
+                    "lon": -81.25311,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "unknown",
+                "os": "Mac OS",
+                "osv": "10.15.7",
+                "js": 1,
+                "connectiontype": 2,
+                "devicetype": 2,
+                "language": "en",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 0
+                }
+            },
+            "user": {
+                "id": "7442118159141497663",
+                "buyeruid": "993236453460",
+                "data": [
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "180"
+                            },
+                            {
+                                "id": "183"
+                            },
+                            {
+                                "id": "196"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "180"
+                            },
+                            {
+                                "id": "183"
+                            },
+                            {
+                                "id": "196"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "180"
+                            },
+                            {
+                                "id": "183"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "183"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "183"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "183"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    },
+                    {
+                        "name": "seedtag.com'",
+                        "segment": [
+                            {
+                                "id": "196"
+                            }
+                        ],
+                        "ext": {
+                            "segclass": "5",
+                            "segtax": 601
+                        }
+                    }
+                ],
+                "ext": {
+                    "eids": [
+                        {
+                            "source": "liveintent.com",
+                            "uids": [
+                                {
+                                    "id": "5-vhUlk9NxX9rzWIBgiFInL4BAoMocpHXtA62BixhvJWZKMWd6N/p/PycDi36RELzp6kPNGJ8nZ1LLnWO1u+StdNxfGfjG/0PQF0L+8FsI37zrlw==",
+                                    "atype": 3
+                                }
+                            ]
+                        },
+                        {
+                            "source": "growthcode.io",
+                            "uids": [
+                                {
+                                    "id": "0b31fdcd-6680-410e-a80e-3017ddfd903e",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "crwdcntrl.net",
+                            "uids": [
+                                {
+                                    "id": "2f198cec9ecf1822cec95c70ed5e16d5393864598d7ab33e16a98f7555c597af",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "id5-sync.com",
+                            "uids": [
+                                {
+                                    "id": "%7B%22signature%22%3A%22ID5_AvpbttW2cvC6uRcWRSfCDbnGjowP38iBj0i7iEeJuxUYaHu4p1K6I8RThO7O3LECduLSR928GiUH5IJYc7kueIAUzAx-a4o4sv7DmFJ7wn5EmosCmgAqUiG__4yLcfnPxiLgj3MXSgBVgvij6JM%22%2C%22created_at%22%3A%222024-07-01T14%3A31%3A37.981703347Z%22%2C%22id5_consent%22%3Atrue%2C%22original_uid%22%3A%22ID5%2AclyA5nx67OiOIVkHCtXsEQpqnuR_Y7qkOBzWI6ENvRms5IrXweH_UeIN_g5INzxu%22%2C%22universal_uid%22%3A%22ID5%2AtsjdvZQQztmzFR1gipIJkuuBO89_ToV1i9kyKskdhs6s5BRvBFGUoV-p2J1Q-DH-%22%2C%22link_type%22%3A1%2C%22cascade_needed%22%3Afalse%2C%22privacy%22%3A%7B%22jurisdiction%22%3A%22other%22%2C%22id5_consent%22%3Atrue%7D%2C%22ext%22%3A%7B%22linkType%22%3A1%2C%22pba%22%3A%22C1maxa4mnB0UElRL1Sg6ew%3D%3D%22%7D%2C%22cache_control%22%3A%7B%22max_age_sec%22%3A7200%7D%7D",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "quantcast.com",
+                            "uids": [
+                                {
+                                    "id": "P0-216714861-1719844297052",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "audigent.com",
+                            "uids": [
+                                {
+                                    "id": "060ixdkjsgld5agek6il8lclhifj8gjccg8uokyweq0kyeqmy0u040i0suow4qwii",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "adnxs.com",
+                            "uids": [
+                                {
+                                    "id": "2956076116638163769"
+                                }
+                            ]
+                        },
+                        {
+                            "source": "pubcid.org",
+                            "uids": [
+                                {
+                                    "id": "d2303270-da1c-4944-8aeb-a4feef9ad065",
+                                    "atype": 1
+                                }
+                            ]
+                        },
+                        {
+                            "source": "adserver.org",
+                            "uids": [
+                                {
+                                    "id": "78cb1bed-2faf-4dc0-a727-8d805a243ea8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [
+                "airfrance.fr",
+                "trackmenow.life",
+                "foxnews.com",
+                "parents-smh.life",
+                "vodafone.co.uk",
+                "air-austral.com",
+                "cheapism.com",
+                "fortunateperson.space",
+                "keyeshalf.live",
+                "vulnerabilityassessments.life",
+                "fortunateheart.space",
+                "gumgum.com",
+                "threatdetectorhub.online",
+                "real-time-system-monitoring.life",
+                "celtra.com",
+                "fox.com",
+                "goodthingsperday.space",
+                "flycorsair.com",
+                "antennereunion.fr",
+                "airfrance.ca",
+                "ozarkradionews.com",
+                "pcsecureandupdate.com",
+                "pcsecurityrepair.live",
+                "destinysfavored.xyz",
+                "montblanc.com",
+                "montblanc.com.mx",
+                "3dgames.org",
+                "francetvinfo.fr",
+                "airfrance.us",
+                "tryexuberant.com",
+                "sakethemado.live",
+                "smartclip.com",
+                "loadoverlylatestinfo-program.info",
+                "hothardware.com",
+                "serendipitywins.com",
+                "axufcs.space",
+                "kalesafe.com",
+                "playoriginalheavilyinfo-product.info",
+                "pclifefundamentals.co.in",
+                "frenchbee.com",
+                "cucucovers.com",
+                "vodafone.com",
+                "bbd383ttka22.top"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "779a61e4-7ce2-49b6-9bc1-619ec0ec2008",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "adapex.io",
+                                "sid": "s92",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "seedtag.com",
+                                "sid": "61debd20903e3707004cffe3",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "3050",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "seatbid": [
+                {
+                    "seat": "8738",
+                    "bid": [
+                        {
+                            "impid": "90fce4f1-680c-46b5-8f3b-e41dfc88f8f3",
+                            "adm": "<script type='text/javascript' src='https://serve-va.acuityplatform.com/Adserver/banner?etoken=MHZGKH9xaoewPMAQ49-KICDjMz8gMOPmY8eA47RVZ3AFQOPmY8BAAAAAA3GxKvBQAAAAA2Kv7pBgAEOTMuMAcOPfilCAAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkCQ49-IoKDj357gsAAAAANiNk4WoABjY1MjkyNgwABDA1MDMNABMzNjY3OTQxNDE5NTE4MTEyNDQ3Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAsyOTBmMDI0MDE5MTUACzI5MGYwMjQwMTkxHAAIMTU0MTRkYjYeAAY1OTAzMzUgKx9RmiEAABVVfGKpFtY96cgXDj34pU8AA0FTVVAAAkxGUQAHb2RuYWxyb1IAAAAANir-mlMABTQyODIzVQ49-KdbDj34pScOPfihKA49-KQpDj34okkADDA2NDM1NDYzMjM5OSoOPfimKwAALAAAbgALNDEsMTEsNTIsOTEtDj34pi4OPfimLwAGMDQzNjYzMAAGMDQzNjYzNA4lAZY_AAA6Kx9RmmQOPfigZQ49-KZiDj3w1mMOPaUCPQAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkPgABMUsACjIzMC1kaWItYXZMAAo0MTAtcmRiLWF2TQAmMjU0ODE5MDk5MjI3MV83NzIzNTExNTMyMjcxXzQxMC1yZGItYXZ7AAJuZVYAFXNlY2l2cmVzIHRlbnJldG5pIHR0YX4AAAAANir5c1j__10OPaykXg49nYpfDj0FGGAOOYnoYQ4_sjZ5Dj_hbn8OPfikaQAAAAA2Kv7pZwAAAAA2K_P6aAAAAAA2Kv7pbAAAAAA2Kv7pelRfUZptACgsMF8wMDAwMDAwNjAuMF8xXzFfMywwXzAwMDAwMDAzMS4wXzFfNV8zcQ49-KVyEYox6x5vjnN0Dj34pnMOPfindv__fP__dQAAAZEypDN7&price=${AUCTION_PRICE}&jk=&norev=1' ></script><noscript><img alt='' src='https://serve-va.acuityplatform.com/Adserver/banner?etoken=MHZGKH9xaoewPMAQ49-KICDjMz8gMOPmY8eA47RVZ3AFQOPmY8BAAAAAA3GxKvBQAAAAA2Kv7pBgAEOTMuMAcOPfilCAAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkCQ49-IoKDj357gsAAAAANiNk4WoABjY1MjkyNgwABDA1MDMNABMzNjY3OTQxNDE5NTE4MTEyNDQ3Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAsyOTBmMDI0MDE5MTUACzI5MGYwMjQwMTkxHAAIMTU0MTRkYjYeAAY1OTAzMzUgKx9RmiEAABVVfGKpFtY96cgXDj34pU8AA0FTVVAAAkxGUQAHb2RuYWxyb1IAAAAANir-mlMABTQyODIzVQ49-KdbDj34pScOPfihKA49-KQpDj34okkADDA2NDM1NDYzMjM5OSoOPfimKwAALAAAbgALNDEsMTEsNTIsOTEtDj34pi4OPfimLwAGMDQzNjYzMAAGMDQzNjYzNA4lAZY_AAA6Kx9RmmQOPfigZQ49-KZiDj3w1mMOPaUCPQAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkPgABMUsACjIzMC1kaWItYXZMAAo0MTAtcmRiLWF2TQAmMjU0ODE5MDk5MjI3MV83NzIzNTExNTMyMjcxXzQxMC1yZGItYXZ7AAJuZVYAFXNlY2l2cmVzIHRlbnJldG5pIHR0YX4AAAAANir5c1j__10OPaykXg49nYpfDj0FGGAOOYnoYQ4_sjZ5Dj_hbn8OPfikaQAAAAA2Kv7pZwAAAAA2K_P6aAAAAAA2Kv7pbAAAAAA2Kv7pelRfUZptACgsMF8wMDAwMDAwNjAuMF8xXzFfMywwXzAwMDAwMDAzMS4wXzFfNV8zcQ49-KVyEYox6x5vjnN0Dj34pnMOPfindv__fP__dQAAAZEypDN7&price=${AUCTION_PRICE}&jk=&norev=1' width='160' height='600' /></noscript>",
+                            "price": 0.38502747,
+                            "adid": "dddc0283-7fe1-466a-9ce9-103536ba99f5",
+                            "burl": "https://serve-va.acuityplatform.com/Adserver/openWin?cr=ChwI1JY7EJq9DhgAIISuFjCErhY4mr0OQABI8PsaEgcIxtjHCSAAGjsIkuGDoZAyFVIixT4oADIkZGRkYzAyODMtN2ZlMS00NjZhLTljZTktMTAzNTM2YmE5OWY1OAFFAACAPyKdAQjUkIaM9BwY0ajQ3gYoBzACOABABkgAUkUQLC0zM%2BNBNVK4osI6A1VTQUICRkxKB29ybGFuZG9Qc1oFMzI4MjRgAWoVYXR0IGludGVybmV0IHNlcnZpY2VzcAN4mg9aAmVuYASIAQGaAQcI1JCGjPQcqAEBuAHwEMABpLsByAETyAEZyAELyAEO0AED2gEOCJrhlcKyvYzFERAAGAEqUAokZGRkYzAyODMtN2ZlMS00NjZhLTljZTktMTAzNTM2YmE5OWY1EMgCGIi0JiITNzQ0MjExODE1OTE0MTQ5NzY2MyoEMzA1MDoGNjI5MjU2MhEIsPJjEAQYAyCS4YOhkDI4ADoFDQAAgD9CAEoYCgp2YS1iaWQtMDMyEgp2YS1iZHItMDE0UiwKJnZhLWJkci0wMTRfMTcyMjM1MTE1MzI3N18xNzIyOTkwOTE4NDUyEgJlbloaCJCVCRCCqAEYrMoBIL77AyjO4hE4yLMIQAJiAGoPCJOaBBAAGAAgAC0AAMBAkgIRCAMQBRmkcD0K16PAPyABKACSAhEIAxABGbgehetRuK4%2FIAEoAKACkJu7pJAy&tpid=328&price=${AUCTION_PRICE}",
+                            "nurl": "https://serve-va.acuityplatform.com/Adserver/thirdPartyWin?tpId=328&etoken=MHZGKH9xaoewPMAQ49-KICDjMz8gMOPmY8eA47RVZ3AFQOPmY8BAAAAAA3GxKvBQAAAAA2Kv7pBgAEOTMuMAcOPfilCAAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkCQ49-IoKDj357gsAAAAANiNk4WoABjY1MjkyNgwABDA1MDMNABMzNjY3OTQxNDE5NTE4MTEyNDQ3Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAsyOTBmMDI0MDE5MTUACzI5MGYwMjQwMTkxHAAIMTU0MTRkYjYeAAY1OTAzMzUgKx9RmiEAABVVfGKpFtY96cgXDj34pU8AA0FTVVAAAkxGUQAHb2RuYWxyb1IAAAAANir-mlMABTQyODIzVQ49-KdbDj34pScOPfihKA49-KQpDj34okkADDA2NDM1NDYzMjM5OSoOPfimKwAALAAAbgALNDEsMTEsNTIsOTEtDj34pi4OPfimLwAGMDQzNjYzMAAGMDQzNjYzNA4lAZY_AAA6Kx9RmmQOPfigZQ49-KZiDj3w1mMOPaUCPQAkNWY5OWFiNjM1MzAxLTllYzktYTY2NC0xZWY3LTM4MjBjZGRkPgABMUsACjIzMC1kaWItYXZMAAo0MTAtcmRiLWF2TQAmMjU0ODE5MDk5MjI3MV83NzIzNTExNTMyMjcxXzQxMC1yZGItYXZ7AAJuZVYAFXNlY2l2cmVzIHRlbnJldG5pIHR0YX4AAAAANir5c1j__10OPaykXg49nYpfDj0FGGAOOYnoYQ4_sjZ5Dj_hbn8OPfikaQAAAAA2Kv7pZwAAAAA2K_P6aAAAAAA2Kv7pbAAAAAA2Kv7pelRfUZptACgsMF8wMDAwMDAwNjAuMF8xXzFfMywwXzAwMDAwMDAzMS4wXzFfNV8zcQ49-KVyEYox6x5vjnN0Dj34pnMOPfindv__fP__dQAAAZEypDN7&price=${AUCTION_PRICE}&jk=",
+                            "adomain": [
+                                "margauxny.com"
+                            ],
+                            "iurl": "https://cdn.acuityplatform.com/rtb/2024/07/BS_1636656/heel_spruce_160_x_600.jpg",
+                            "cid": "969556",
+                            "crid": "969556_4_S",
+                            "cat": [
+                                "IAB18"
+                            ],
+                            "attr": [],
+                            "id": "dddc0283-7fe1-466a-9ce9-103536ba99f5",
+                            "w": 160,
+                            "h": 600
+                        }
+                    ]
+                }
+            ],
+            "cur": "USD",
+            "id": "dddc0283-7fe1-466a-9ce9-103536ba99f5"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": true,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: bid-equativ-east.acuityplatform.com\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-7d70606bc6a8cf0a87fadfd22e4c66fe-3a90b10d8900e543-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 2441\n",
+        "responseHeader": "Date: Tue, 30 Jul 2024 14:52:33 GMT\nServer: Apache-Coyote/1.1\n\r\nContent-Type: application/json;charset=UTF-8\nContent-Encoding: gzip\nContent-Length: 1668\n",
+        "partnerResponseTime": 43.0387,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 171,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91233
+        ],
+        "partnerId": 405,
+        "auctionId": 6592181027003944000,
+        "auctionDateTime": "2024-07-30T14:53:27.28Z",
+        "auctionNetworkId": 3050,
+        "auctionSiteId": 670124,
+        "auctionPageId": -1,
+        "auctionFormatId": 0,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 0,
+        "auctionImpressionType": 0,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "4b68c4df-4c10-4cb3-b74f-082fd2bef9e0",
+            "imp": [
+                {
+                    "id": "cc406fea-876a-4401-9112-d73c94ced187",
+                    "banner": {
+                        "w": 300,
+                        "h": 250,
+                        "pos": 3,
+                        "battr": [
+                            1,
+                            3,
+                            8,
+                            9,
+                            10,
+                            14,
+                            17
+                        ],
+                        "mimes": [
+                            "text/html"
+                        ],
+                        "api": [],
+                        "format": [
+                            {
+                                "w": 300,
+                                "h": 250
+                            },
+                            {
+                                "w": 336,
+                                "h": 280
+                            },
+                            {
+                                "w": 640,
+                                "h": 480
+                            },
+                            {
+                                "w": 250,
+                                "h": 250
+                            }
+                        ]
+                    },
+                    "tagid": "6697cd60bcf6fe000618c35b",
+                    "bidfloor": 0.2,
+                    "bidfloorcur": "USD",
+                    "instl": 0,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "089cd183-d0c8-4942-94b6-e24788bc7189",
+                        "to": 3
+                    }
+                }
+            ],
+            "site": {
+                "id": "670124",
+                "cat": [
+                    "IAB16"
+                ],
+                "name": "US_petsnonstop.com",
+                "domain": "petsnonstop.com",
+                "pagecat": [
+                    "IAB16"
+                ],
+                "page": "https://petsnonstop.com/ranking-americas-most-prominent-first-ladies-from-most-to-least-popular-is/21/",
+                "publisher": {
+                    "id": "3050",
+                    "name": "Seedtag"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+                "ip": "172.56.97.73",
+                "geo": {
+                    "country": "USA",
+                    "region": "FL",
+                    "city": "tampa",
+                    "zip": "33603",
+                    "type": 2,
+                    "lat": 27.98598,
+                    "lon": -82.46379,
+                    "ipservice": 2
+                },
+                "make": "unknown",
+                "model": "unknown",
+                "os": "Windows",
+                "osv": "10",
+                "js": 1,
+                "connectiontype": 3,
+                "devicetype": 2,
+                "language": "en",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 0
+                }
+            },
+            "user": {
+                "id": "4142068741146234661",
+                "buyeruid": "624387350771",
+                "ext": {
+                    "eids": [
+                        {
+                            "source": "adserver.org",
+                            "uids": [
+                                {
+                                    "id": "48101492-336c-470a-92bd-3df536472ff8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [
+                "serendipitywins.com",
+                "3dgames.org",
+                "frenchbee.com",
+                "flycorsair.com",
+                "airfrance.ca",
+                "goodthingsperday.space",
+                "cucucovers.com",
+                "vodafone.com",
+                "montblanc.com",
+                "air-austral.com",
+                "vodafone.co.uk",
+                "fortunateheart.space",
+                "destinysfavored.xyz",
+                "montblanc.com.mx",
+                "airfrance.us",
+                "francetvinfo.fr",
+                "antennereunion.fr",
+                "airfrance.fr",
+                "parents-smh.life",
+                "smartclip.com",
+                "gumgum.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "0ae136a1-7d2a-4074-8108-6b82da0a5f79",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "seedtag.com",
+                                "sid": "6604342d6b34e00007f4c037",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "3050",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1---"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "seatbid": [
+                {
+                    "seat": "8738",
+                    "bid": [
+                        {
+                            "impid": "cc406fea-876a-4401-9112-d73c94ced187",
+                            "adm": "<script type='text/javascript' src='https://serve-va.acuityplatform.com/Adserver/banner?etoken=MHZGKH8drV_AO0AQ49-KUCDjMz_gMOPmY8eA47RVZ3AFQOPmY8BAAAAAos4M2KBQAAAAA2Kv7pBgAEMjIuMAcOPfilCAAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0CQ49-IoKDj357gsAAAAANiDHRWoABjQyMTA3NgwABDA1MDMNABMxNjY0MzI2NDExNDc4NjAyNDE0Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAtiYTNjMTI0MDE5MTUAC2JhM2MxMjQwMTkxHAAIOTQxNjgzY2EeAAYwNjU4MjggKx9RmiEAABVVQLofFtY7kxUXDj34pU8AA0FTVVAAAkxGUQAFYXBtYXRSAAAAADYq_pBTAAUwMTYzM1UOPfilWw49-K8nDj34oSgOPfikKQ49-KJJAAwxNzcwNTM3ODM0MjYqDj34pisAACwAAG4ACjQxLDQyLDcsNzEtDj34pi4OPfimLwAAMAAANA4lAbw_AAA6Kx9RmmQOPfijZQ49-KZiDj34pmMOPeNMPQAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0PgABMUsACTU0MmRpYi1hdkwACjgzMC1yZGItYXZNACYxOTA0MTcyODAzMjcxXzgyMzcwMjE1MzIyNzFfODMwLXJkYi1hdnsAAm5lVgARLmNuaSBhc3UgZWxpYm9tLXR-AAAAADYq_thY__9dDj2spF4OPZ2KXw49BRhgDjmJ9GEOP7I2eQ4_4W5_Dj34pGkAAAAANir-6WcAAAAANnHQEGgAAAAANir-6WwAAAAANir-6XpUX1GabQAoLDBfMDAwMDAwMDMxLjBfMV81XzMsMF8wMDAwMDAwNjAuMF8xXzFfM3EOPfilchFBGH0erB12dA49-OZzDj34p3b__3z__3UAAAGRMqVeQg==&price=${AUCTION_PRICE}&jk=&norev=1' ></script><noscript><img alt='' src='https://serve-va.acuityplatform.com/Adserver/banner?etoken=MHZGKH8drV_AO0AQ49-KUCDjMz_gMOPmY8eA47RVZ3AFQOPmY8BAAAAAos4M2KBQAAAAA2Kv7pBgAEMjIuMAcOPfilCAAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0CQ49-IoKDj357gsAAAAANiDHRWoABjQyMTA3NgwABDA1MDMNABMxNjY0MzI2NDExNDc4NjAyNDE0Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAtiYTNjMTI0MDE5MTUAC2JhM2MxMjQwMTkxHAAIOTQxNjgzY2EeAAYwNjU4MjggKx9RmiEAABVVQLofFtY7kxUXDj34pU8AA0FTVVAAAkxGUQAFYXBtYXRSAAAAADYq_pBTAAUwMTYzM1UOPfilWw49-K8nDj34oSgOPfikKQ49-KJJAAwxNzcwNTM3ODM0MjYqDj34pisAACwAAG4ACjQxLDQyLDcsNzEtDj34pi4OPfimLwAAMAAANA4lAbw_AAA6Kx9RmmQOPfijZQ49-KZiDj34pmMOPeNMPQAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0PgABMUsACTU0MmRpYi1hdkwACjgzMC1yZGItYXZNACYxOTA0MTcyODAzMjcxXzgyMzcwMjE1MzIyNzFfODMwLXJkYi1hdnsAAm5lVgARLmNuaSBhc3UgZWxpYm9tLXR-AAAAADYq_thY__9dDj2spF4OPZ2KXw49BRhgDjmJ9GEOP7I2eQ4_4W5_Dj34pGkAAAAANir-6WcAAAAANnHQEGgAAAAANir-6WwAAAAANir-6XpUX1GabQAoLDBfMDAwMDAwMDMxLjBfMV81XzMsMF8wMDAwMDAwNjAuMF8xXzFfM3EOPfilchFBGH0erB12dA49-OZzDj34p3b__3z__3UAAAGRMqVeQg==&price=${AUCTION_PRICE}&jk=&norev=1' width='300' height='250' /></noscript>",
+                            "price": 0.21673019,
+                            "adid": "4b68c4df-4c10-4cb3-b74f-082fd2bef9e0",
+                            "burl": "https://serve-va.acuityplatform.com/Adserver/openWin?cr=ChQI2JY7EJq9DhgAOJq9DkAASPD7GhIJCOPmqNahASAAGjsIqoeHoZAyFYXuXT4oADIkNGI2OGM0ZGYtNGMxMC00Y2IzLWI3NGYtMDgyZmQyYmVmOWUwOAFFAACAPyKUAQjzwYuDlhIYycLh4QooBzACOABABUgAUj4QLC2F699BNY%2FCpMI6A1VTQUICRkxKBXRhbXBhUHlaBTMzNjEwYANqEXQtbW9iaWxlIHVzYSBpbmMucAl4MVoCZW5gBIgBAZoBBwjzwYuDlhKoAQG4AQDAAeo3yAERyAEHyAEYyAEO0AED2gEOCJ%2FHm8TSj8agERBAGAEqUAokNGI2OGM0ZGYtNGMxMC00Y2IzLWI3NGYtMDgyZmQyYmVmOWUwEMgCGKzzKCITNDE0MjA2ODc0MTE0NjIzNDY2MSoEMzA1MDoGNjcwMTI0MhEImvJjEAMYAyCqh4ehkDI4ADoFDQAAgD9CAEoXCgl2YS1iaWQyNDUSCnZhLWJkci0wMzhSLAomdmEtYmRyLTAzOF8xNzIyMzUxMjA3MzI4XzE3MjMwODI3MTQwOTESAmVuWhoIkJUJEIKoARisygEgvvsDKNLiETjIswhAAmIAahAI%2Bd3sAhAAGAAgAC0AAMBAkgIRCAMQARm4HoXrUbiuPyABKACSAhEIAxAFGaRwPQrXo8A%2FIAEoAKACqsG%2BpJAy&tpid=328&price=${AUCTION_PRICE}",
+                            "nurl": "https://serve-va.acuityplatform.com/Adserver/thirdPartyWin?tpId=328&etoken=MHZGKH8drV_AO0AQ49-KUCDjMz_gMOPmY8eA47RVZ3AFQOPmY8BAAAAAos4M2KBQAAAAA2Kv7pBgAEMjIuMAcOPfilCAAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0CQ49-IoKDj357gsAAAAANiDHRWoABjQyMTA3NgwABDA1MDMNABMxNjY0MzI2NDExNDc4NjAyNDE0Dw49-KYSDj34pxMAATBZDj34phAOPfinFAAAGg49-KYbAAtiYTNjMTI0MDE5MTUAC2JhM2MxMjQwMTkxHAAIOTQxNjgzY2EeAAYwNjU4MjggKx9RmiEAABVVQLofFtY7kxUXDj34pU8AA0FTVVAAAkxGUQAFYXBtYXRSAAAAADYq_pBTAAUwMTYzM1UOPfilWw49-K8nDj34oSgOPfikKQ49-KJJAAwxNzcwNTM3ODM0MjYqDj34pisAACwAAG4ACjQxLDQyLDcsNzEtDj34pi4OPfimLwAAMAAANA4lAbw_AAA6Kx9RmmQOPfijZQ49-KZiDj34pmMOPeNMPQAkMGU5ZmViMmRmMjgwLWY0N2ItM2JjNC0wMWM0LWZkNGM4NmI0PgABMUsACTU0MmRpYi1hdkwACjgzMC1yZGItYXZNACYxOTA0MTcyODAzMjcxXzgyMzcwMjE1MzIyNzFfODMwLXJkYi1hdnsAAm5lVgARLmNuaSBhc3UgZWxpYm9tLXR-AAAAADYq_thY__9dDj2spF4OPZ2KXw49BRhgDjmJ9GEOP7I2eQ4_4W5_Dj34pGkAAAAANir-6WcAAAAANnHQEGgAAAAANir-6WwAAAAANir-6XpUX1GabQAoLDBfMDAwMDAwMDMxLjBfMV81XzMsMF8wMDAwMDAwNjAuMF8xXzFfM3EOPfilchFBGH0erB12dA49-OZzDj34p3b__3z__3UAAAGRMqVeQg==&price=${AUCTION_PRICE}&jk=",
+                            "adomain": [
+                                "margauxny.com"
+                            ],
+                            "iurl": "https://cdn.acuityplatform.com/rtb/2024/07/BS_1636634/demi_saddle_300_x_250.jpg",
+                            "cid": "969560",
+                            "crid": "969560_3_S",
+                            "cat": [
+                                "IAB18"
+                            ],
+                            "attr": [],
+                            "id": "4b68c4df-4c10-4cb3-b74f-082fd2bef9e0",
+                            "w": 300,
+                            "h": 250
+                        }
+                    ]
+                }
+            ],
+            "cur": "USD",
+            "id": "4b68c4df-4c10-4cb3-b74f-082fd2bef9e0"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": true,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: bid-equativ-east.acuityplatform.com\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-a7f1639c073c052910a89d345a155878-8cf0dfad842def51-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1216\n",
+        "responseHeader": "Date: Tue, 30 Jul 2024 14:53:27 GMT\nServer: Apache-Coyote/1.1\n\r\nContent-Type: application/json;charset=UTF-8\nContent-Encoding: gzip\nContent-Length: 1646\n",
+        "partnerResponseTime": 97.1001,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 94,
+        "bidStatusList": []
+    }
+]
