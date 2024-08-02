@@ -20,14 +20,23 @@ fs.readFile(`data/in/Reporting-castleblack.txt`, 'utf8', (err, data) => {
         return;
     }
 
-    const jsonData = "[" + data.replace(/}\n{/g, "},\n{") + "]";
+    console.log("Raw data read from file:", data);
+
+    const jsonData = "[" + data.trim().replace(/}\s*{/g, "},\n{") + "]";
+
+    console.log("Modified JSON string:", jsonData);
 
     // Parse and re-stringify the JSON data to format it properly
     let parsedData;
     try {
         parsedData = JSON.parse(jsonData);
     } catch (parseErr) {
-        console.error("Failed to parse JSON data:", parseErr);
+        console.error("Failed to parse JSON data:", parseErr.message);
+        const position = parseErr.message.match(/at position (\d+)/);
+        if (position) {
+            const pos = parseInt(position[1], 10);
+            console.error("Error around this part of the string:", jsonData.substring(pos - 50, pos + 50));
+        }
         return;
     }
 

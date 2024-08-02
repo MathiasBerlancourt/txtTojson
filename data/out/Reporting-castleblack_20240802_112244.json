@@ -1,0 +1,2243 @@
+[
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 7977259587910126000,
+        "auctionDateTime": "2024-08-02T09:00:28.32Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": -1,
+        "auctionPageId": -1,
+        "auctionFormatId": 0,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "5a9aa921-031e-4a16-bdd2-db39644d4d48",
+            "imp": [
+                {
+                    "id": "08f1d9f5-8c66-4b09-be40-a9c748e643ad",
+                    "video": {
+                        "mimes": [
+                            "video/mpeg",
+                            "video/mp4",
+                            "video/quicktime",
+                            "video/avi"
+                        ],
+                        "linearity": 1,
+                        "minduration": 5,
+                        "maxduration": 60,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17,
+                            1,
+                            2,
+                            5
+                        ],
+                        "api": [
+                            3,
+                            5,
+                            6,
+                            7
+                        ],
+                        "minbitrate": 56,
+                        "maxbitrate": 4096,
+                        "playbackmethod": [
+                            1
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 1
+                    },
+                    "tagid": "2625942-2-789869",
+                    "bidfloor": 4.50903,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "displaymanager": "BidMachine",
+                    "displaymanagerver": "2.3.2",
+                    "ext": {
+                        "wopv": "e516fb28-b844-4e5c-a083-cb28b9ea974a",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "1990366252",
+                "name": "Riding Extreme 3D",
+                "bundle": "com.ducky.bikehill3d",
+                "storeurl": "https://play.google.com/store/apps/details?id=com.ducky.bikehill3d",
+                "pagecat": [],
+                "domain": "playducky.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "keywords": "GameRacing",
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Linux; Android 14; 21081111RG Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.186 Mobile Safari/537.36",
+                "ip": "15.204.237.244",
+                "geo": {
+                    "country": "USA",
+                    "region": "VA",
+                    "city": "Reston",
+                    "zip": "20190",
+                    "type": 2,
+                    "lat": 38.9609,
+                    "lon": -77.3429,
+                    "ipservice": 2
+                },
+                "dpidsha1": "219c76da849ba2d9939be0e853c2bc08cf4ab8a3",
+                "dpidmd5": "f2896aba81bb8359e9692a1dd0d230d7",
+                "make": "xiaomi",
+                "model": "21081111rg",
+                "os": "android",
+                "osv": "14.0.0",
+                "js": 1,
+                "connectiontype": 3,
+                "devicetype": 4,
+                "language": "fa",
+                "ifa": "0df25e06-384f-44df-bb04-979a605da534",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 102,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4",
+                "IAB24",
+                "IAB8-18",
+                "IAB8-5",
+                "IAB11-4"
+            ],
+            "badv": [
+                "adquery.io",
+                "aliexpress.com",
+                "wonderful-surprise.com",
+                "opinion-hk-76.com",
+                "uplevelrewards.com",
+                "adv_2352_dom.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "a384fa08-aced-4770-b091-544b903a6f6a",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986776",
+                                "rid": "2918.gg81wn2nrgt4aigfxq00y5",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1YN-"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "5a9aa921-031e-4a16-bdd2-db39644d4d48",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "320775",
+                            "impid": "08f1d9f5-8c66-4b09-be40-a9c748e643ad",
+                            "price": 6.16667,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"320775\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=5a9aa921-031e-4a16-bdd2-db39644d4d48&urid=bf1a4d09a547d5e88b5a96fac7a8b4e43c8108d59d2fa1ae04343&l=0&rt=1722589228&ag=627&pid=1&sid=589672966&cc=0&us=2059318&fp=0&li=1008&a=9063&aio=18629&al=76979&cr=320775&ivs=58544&co=229&re=0&ci=0&me=0&dma=0&tz=-360&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=4&db=82&dm=932782&dt=3&dnt=1&rh=0&rw=0&aid=0df25e06-384f-44df-bb04-979a605da534&native=0&interstitial=1&osv=14.0.0&contype=3&res=&id=&lid=&mn=32_12&pp=0.006487&pbp=14.921138&fbp=0.006167&protocol=2.5&as=12524109&sspSiteId=1990366252&wp=0.098172&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=com.ducky.bikehill3d&skip=1&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=15.204.237.244&an=Riding+Extreme+3D&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=fa&dpsp=-1&bt=MTcyMjU4OTIyOCw5MDYzLDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=31574&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=15.204.237.244&nw=-1&nh=-1&bui=-1&lcod=4&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=&dmn=21081111rg&spmv=&nativeIcon=0&ippt=3&ctvv=0&pc=20190&tgid=2625942-2-789869&sci=0&ua=Mozilla%2f5.0+%28Linux%3b+Android+14%3b+21081111RG+Build%2fUP1A.231005.007%3b+wv%29+AppleWebKit%2f537.36+%28KHTML%2c+like+Gecko%29+Version%2f4.0+Chrome%2f126.0.6478.186+Mobile+Safari%2f537.36&ieiu=0]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.006487451601899713&pt=3&dmn=21081111rg&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=15.204.237.244&al=76979&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524109&re=0&at=1&fbp=0.006166666666666667&rh=0&aid=0df25e06-384f-44df-bb04-979a605da534&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=bf1a4d09a547d5e88b5a96fac7a8b4e43c8108d59d2fa1ae04343&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTIyOCw5MDYzLDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=15.204.237.244&ippt=3&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=320775&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=82&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=932782&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+21081111RG+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=14.921138375023542&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.09817169606685638&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=20190&pdi=&csi=31574&tgid=2625942-2-789869&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "320775",
+                            "adomain": [
+                                "tap-nation.io"
+                            ],
+                            "bundle": "com.RedLineGames.Game49",
+                            "iurl": "https://cdn.atomex.net/creatives/9063/480x320/9063-video-5f7665fe-320x480.mp4",
+                            "cid": "320775",
+                            "crid": "320775",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.006487451601899713&pt=3&dmn=21081111rg&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=15.204.237.244&al=76979&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524109&re=0&at=1&fbp=0.006166666666666667&rh=0&aid=0df25e06-384f-44df-bb04-979a605da534&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=bf1a4d09a547d5e88b5a96fac7a8b4e43c8108d59d2fa1ae04343&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTIyOCw5MDYzLDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=15.204.237.244&ippt=3&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=320775&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=82&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=932782&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+21081111RG+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=14.921138375023542&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.09817169606685638&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=20190&pdi=&csi=31574&tgid=2625942-2-789869&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.006487451601899713&pt=3&dmn=21081111rg&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=15.204.237.244&al=76979&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524109&re=0&at=1&fbp=0.006166666666666667&rh=0&aid=0df25e06-384f-44df-bb04-979a605da534&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=bf1a4d09a547d5e88b5a96fac7a8b4e43c8108d59d2fa1ae04343&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTIyOCw5MDYzLDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=15.204.237.244&ippt=3&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=320775&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=82&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=932782&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+21081111RG+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=14.921138375023542&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.09817169606685638&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=20190&pdi=&csi=31574&tgid=2625942-2-789869&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "320775",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-5b8597ffb1dd39eea7b5e0ae3477cdea-0cdd83f92f8ede5f-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1331\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:00:28 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1846\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 29.1238,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 317,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 8320724522411469000,
+        "auctionDateTime": "2024-08-02T09:00:48.806Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 643856,
+        "auctionPageId": 1946464,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "1c9deb71-5787-4edf-80b3-883aa3b96abd",
+            "imp": [
+                {
+                    "id": "10a85173-2c49-45cc-a7cb-20ff787fb03f",
+                    "video": {
+                        "mimes": [
+                            "video/x-flv",
+                            "video/webm",
+                            "video/3gpp",
+                            "application/javascript",
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 1,
+                        "maxduration": 120,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0
+                    },
+                    "tagid": "MTk0NjQ2NCAxMjM3Njk",
+                    "bidfloor": 1.93299,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "03bcbb73-b908-4b51-b5b9-b2d2b246c5a0",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "643856",
+                "name": "Castle Solitaire: Card Game",
+                "bundle": "1382466301",
+                "storeurl": "https://itunes.apple.com/us/app/castle-solitaire-card-game/id1382466301?mt=8&axb=111",
+                "cat": [],
+                "pagecat": [],
+                "domain": "www.mobilityware.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+                "ip": "98.97.127.178",
+                "geo": {
+                    "country": "USA",
+                    "region": "CA",
+                    "city": "Los Angeles",
+                    "zip": "90060",
+                    "type": 2,
+                    "lat": 34.0544,
+                    "lon": -118.2441,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "Apple iPhone",
+                "os": "iOS",
+                "osv": "17.4.1",
+                "js": 1,
+                "devicetype": 4,
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [],
+            "source": {
+                "fd": 1,
+                "tid": "b62b6e0c-01ff-4d02-bf26-e037bc718aa4",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986649",
+                                "rid": "2093057309496753959",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "${US_PRIVACY"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "1c9deb71-5787-4edf-80b3-883aa3b96abd",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "349497",
+                            "impid": "10a85173-2c49-45cc-a7cb-20ff787fb03f",
+                            "price": 2.16231,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"349497\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=1c9deb71-5787-4edf-80b3-883aa3b96abd&urid=131c9209a54cd6957564bd2a3ab9b47d7c97efd94cacf39637085&l=0&rt=1722589248&ag=627&pid=1&sid=584306416&cc=0&us=2062777&fp=0&li=1016&a=9104&aio=18785&al=79989&cr=349497&ivs=61554&co=229&re=0&ci=0&me=0&dma=0&tz=-360&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=3&db=87&dm=934959&dt=3&dnt=1&rh=0&rw=0&aid=d9000e3015266d139ad6db6d87972ba132efc7ba&native=0&interstitial=1&osv=17.4.1&contype=&res=&id=&lid=&mn=10_3&pp=0.012974&pbp=2.594766&fbp=0.002162&protocol=2.5&as=1252498&sspSiteId=643856&wp=0.158416&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=1382466301&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=98.97.127.178&an=Castle+Solitaire%3a+Card+Game&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=Others&dpsp=-1&bt=MTcyMjU4OTI0OCw5MTA0LDYyNyw1ODQzMDY0MTYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=36614&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=98.97.127.178&nw=-1&nh=-1&bui=-1&lcod=a&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=543368EC-1B9B-471B-9EB5-B8E497F13826&dmn=Apple+iPhone&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=90060&tgid=MTk0NjQ2NCAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28iPhone%3b+CPU+iPhone+OS+17_4_1+like+Mac+OS+X%29+AppleWebKit%2f605.1.15+%28KHTML%2c+like+Gecko%29+Mobile%2f15E148&ieiu=1]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.012973830103874207&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.4.1&vie=0&sci=0&dnb=0&idfv=543368EC-1B9B-471B-9EB5-B8E497F13826&ocs=&ag=627&interstitial=1&ip=98.97.127.178&al=79989&nait=&an=Castle+Solitaire%3A+Card+Game&nativeIcon=0&as=1252498&re=0&at=1&fbp=0.0021623050495332237&rh=0&aid=d9000e3015266d139ad6db6d87972ba132efc7ba&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c9209a54cd6957564bd2a3ab9b47d7c97efd94cacf39637085&sd=1382466301&bt=MTcyMjU4OTI0OCw5MTA0LDYyNyw1ODQzMDY0MTYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=98.97.127.178&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=a&pbp=2.594766059439868&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584306416&wp=0.1584157645702362&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90060&pdi=&csi=36614&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "349497",
+                            "adomain": [
+                                "yodo1.com"
+                            ],
+                            "iurl": "https://cdn.atomex.net/creatives/9104/480x320/9104-video-ff8c2796-320x480.mp4",
+                            "cid": "349497",
+                            "crid": "349497",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.012973830103874207&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.4.1&vie=0&sci=0&dnb=0&idfv=543368EC-1B9B-471B-9EB5-B8E497F13826&ocs=&ag=627&interstitial=1&ip=98.97.127.178&al=79989&nait=&an=Castle+Solitaire%3A+Card+Game&nativeIcon=0&as=1252498&re=0&at=1&fbp=0.0021623050495332237&rh=0&aid=d9000e3015266d139ad6db6d87972ba132efc7ba&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c9209a54cd6957564bd2a3ab9b47d7c97efd94cacf39637085&sd=1382466301&bt=MTcyMjU4OTI0OCw5MTA0LDYyNyw1ODQzMDY0MTYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=98.97.127.178&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=a&pbp=2.594766059439868&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584306416&wp=0.1584157645702362&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90060&pdi=&csi=36614&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.012973830103874207&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.4.1&vie=0&sci=0&dnb=0&idfv=543368EC-1B9B-471B-9EB5-B8E497F13826&ocs=&ag=627&interstitial=1&ip=98.97.127.178&al=79989&nait=&an=Castle+Solitaire%3A+Card+Game&nativeIcon=0&as=1252498&re=0&at=1&fbp=0.0021623050495332237&rh=0&aid=d9000e3015266d139ad6db6d87972ba132efc7ba&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c9209a54cd6957564bd2a3ab9b47d7c97efd94cacf39637085&sd=1382466301&bt=MTcyMjU4OTI0OCw5MTA0LDYyNyw1ODQzMDY0MTYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=98.97.127.178&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=a&pbp=2.594766059439868&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584306416&wp=0.1584157645702362&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90060&pdi=&csi=36614&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "349497",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-60e99e394f0ec753947bce991382aef6-4035080b0107e8e7-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1069\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:00:48 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1814\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 55.6431,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 181,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 7485946872985674000,
+        "auctionDateTime": "2024-08-02T09:02:25.746Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 663019,
+        "auctionPageId": 1988025,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "3298d834-0b6c-4a08-8120-169542015a02",
+            "imp": [
+                {
+                    "id": "277d3eac-622c-4076-bb8c-aef67e4ba839",
+                    "video": {
+                        "mimes": [
+                            "video/x-flv",
+                            "video/webm",
+                            "video/3gpp",
+                            "application/javascript",
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 1,
+                        "maxduration": 120,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0
+                    },
+                    "tagid": "MTk4ODAyNSAxMjM3Njk",
+                    "bidfloor": 1.93299,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "b1f24488-3021-4493-a042-72dd546f50f9",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "663019",
+                "name": "FreeCell Solitaire Card Game",
+                "bundle": "301987699",
+                "storeurl": "https://itunes.apple.com/us/app/freecell-free/id301987699?mt=8&axb=691",
+                "cat": [],
+                "pagecat": [],
+                "domain": "www.mobilityware.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+                "ip": "172.58.130.242",
+                "geo": {
+                    "country": "USA",
+                    "region": "FL",
+                    "city": "Miami",
+                    "zip": "33161",
+                    "type": 2,
+                    "lat": 25.8906,
+                    "lon": -80.1784,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "Apple iPhone",
+                "os": "iOS",
+                "osv": "17.5.1",
+                "js": 1,
+                "devicetype": 4,
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [],
+            "source": {
+                "fd": 1,
+                "tid": "09dbc648-fbbf-44bc-963d-72fb4a5b83bb",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986649",
+                                "rid": "2093057309497081792",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1---"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "3298d834-0b6c-4a08-8120-169542015a02",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "321909",
+                            "impid": "277d3eac-622c-4076-bb8c-aef67e4ba839",
+                            "price": 2.5693,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"321909\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=3298d834-0b6c-4a08-8120-169542015a02&urid=131c8409a5647eb6d27bb54a2e80b4827c9131d955d2e5f531437&l=0&rt=1722589345&ag=627&pid=1&sid=502073157&cc=0&us=2062777&fp=0&li=1016&a=9104&aio=18785&al=79989&cr=321909&ivs=61554&co=229&re=103&ci=14185&me=0&dma=0&tz=-300&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=3&db=87&dm=934959&dt=3&dnt=1&rh=0&rw=0&aid=8aed658da5ac1fde0283531e0387f26bfa9e12a3&native=0&interstitial=1&osv=17.5.1&contype=&res=&id=&lid=&mn=10_3&pp=0.015416&pbp=3.083157&fbp=0.002569&protocol=2.5&as=1252484&sspSiteId=663019&wp=0.186460&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=301987699&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=172.58.130.242&an=FreeCell+Solitaire+Card+Game&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=Others&dpsp=-1&bt=MTcyMjU4OTM0NSw5MTA0LDYyNyw1MDIwNzMxNTcAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=31840&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=172.58.130.242&nw=-1&nh=-1&bui=-1&lcod=3&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=3492B784-A21B-413C-BFCB-991F4B2ACD29&dmn=Apple+iPhone&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=33161&tgid=MTk4ODAyNSAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28iPhone%3b+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2f605.1.15+%28KHTML%2c+like+Gecko%29+Mobile%2f15E148&ieiu=1]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.015415784902870655&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=3492B784-A21B-413C-BFCB-991F4B2ACD29&ocs=&ag=627&interstitial=1&ip=172.58.130.242&al=79989&nait=&an=FreeCell+Solitaire+Card+Game&nativeIcon=0&as=1252484&re=103&at=1&fbp=0.002569297522097292&rh=0&aid=8aed658da5ac1fde0283531e0387f26bfa9e12a3&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c8409a5647eb6d27bb54a2e80b4827c9131d955d2e5f531437&sd=301987699&bt=MTcyMjU4OTM0NSw5MTA0LDYyNyw1MDIwNzMxNTcAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=172.58.130.242&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=14185&brpi=4695&l=0&co=229&prodIds=&m=1&cr=321909&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=3&pbp=3.08315702651675&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073157&wp=0.18645966053009033&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=33161&pdi=&csi=31840&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "321909",
+                            "adomain": [
+                                "yodo1.com"
+                            ],
+                            "iurl": "https://cdn.atomex.net/creatives/9104/480x320/9104-video-11d6f3b9-320x480.mp4",
+                            "cid": "321909",
+                            "crid": "321909",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.015415784902870655&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=3492B784-A21B-413C-BFCB-991F4B2ACD29&ocs=&ag=627&interstitial=1&ip=172.58.130.242&al=79989&nait=&an=FreeCell+Solitaire+Card+Game&nativeIcon=0&as=1252484&re=103&at=1&fbp=0.002569297522097292&rh=0&aid=8aed658da5ac1fde0283531e0387f26bfa9e12a3&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c8409a5647eb6d27bb54a2e80b4827c9131d955d2e5f531437&sd=301987699&bt=MTcyMjU4OTM0NSw5MTA0LDYyNyw1MDIwNzMxNTcAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=172.58.130.242&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=14185&brpi=4695&l=0&co=229&prodIds=&m=1&cr=321909&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=3&pbp=3.08315702651675&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073157&wp=0.18645966053009033&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=33161&pdi=&csi=31840&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.015415784902870655&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=3492B784-A21B-413C-BFCB-991F4B2ACD29&ocs=&ag=627&interstitial=1&ip=172.58.130.242&al=79989&nait=&an=FreeCell+Solitaire+Card+Game&nativeIcon=0&as=1252484&re=103&at=1&fbp=0.002569297522097292&rh=0&aid=8aed658da5ac1fde0283531e0387f26bfa9e12a3&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c8409a5647eb6d27bb54a2e80b4827c9131d955d2e5f531437&sd=301987699&bt=MTcyMjU4OTM0NSw5MTA0LDYyNyw1MDIwNzMxNTcAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=172.58.130.242&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=14185&brpi=4695&l=0&co=229&prodIds=&m=1&cr=321909&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=3&pbp=3.08315702651675&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073157&wp=0.18645966053009033&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=33161&pdi=&csi=31840&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "321909",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-a78e3b59ab61bb56f40c4541914794c7-7a19953b292a7b1c-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1052\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:02:25 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1813\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 10.5677,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 136,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 5351632586320473000,
+        "auctionDateTime": "2024-08-02T09:02:32.094Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 643856,
+        "auctionPageId": 1946464,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "0f3aa1e8-0ab3-4912-a913-5e8a8a7b5a63",
+            "imp": [
+                {
+                    "id": "e9f2d54c-b121-4df6-9ba8-7686ab82270c",
+                    "video": {
+                        "mimes": [
+                            "video/x-flv",
+                            "video/webm",
+                            "video/3gpp",
+                            "application/javascript",
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 1,
+                        "maxduration": 120,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0
+                    },
+                    "tagid": "MTk0NjQ2NCAxMjM3Njk",
+                    "bidfloor": 1.93299,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "532acbe3-e4a3-49a3-969f-85559350d172",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "643856",
+                "name": "Bubble Shooter Pop!",
+                "bundle": "1557357811",
+                "storeurl": "https://apps.apple.com/app/id1557357811?axb=111",
+                "cat": [],
+                "pagecat": [],
+                "domain": "www.mobilityware.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+                "ip": "12.75.40.54",
+                "geo": {
+                    "country": "USA",
+                    "region": "MI",
+                    "city": "detroit",
+                    "zip": "48206",
+                    "type": 2,
+                    "lat": 42.37501,
+                    "lon": -83.10795,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "Apple iPhone",
+                "os": "iOS",
+                "osv": "17.4",
+                "js": 1,
+                "connectiontype": 2,
+                "devicetype": 4,
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [],
+            "source": {
+                "fd": 1,
+                "tid": "42d98a25-b536-4a60-893c-834f35eda841",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986649",
+                                "rid": "1060359831850518928",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1---"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "0f3aa1e8-0ab3-4912-a913-5e8a8a7b5a63",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "306321",
+                            "impid": "e9f2d54c-b121-4df6-9ba8-7686ab82270c",
+                            "price": 9.16667,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"306321\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=0f3aa1e8-0ab3-4912-a913-5e8a8a7b5a63&urid=131c5a09a5660c517d190acad9bab43cdca0c6d4244d27d655713&l=0&rt=1722589352&ag=627&pid=1&sid=591408336&cc=0&us=2060406&fp=0&li=1011&a=9092&aio=18752&al=80279&cr=306321&ivs=61844&co=229&re=0&ci=0&me=0&dma=0&tz=-360&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=3&db=87&dm=934959&dt=3&dnt=1&rh=0&rw=0&aid=b8e8ff7f5f3393494db92b63d45606dce1064215&native=0&interstitial=1&osv=17.4&contype=2&res=&id=&lid=&mn=10_3&pp=0.013109&pbp=13.109203&fbp=0.009167&protocol=2.5&as=1252442&sspSiteId=643856&wp=0.261510&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=1557357811&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=12.75.40.54&an=Bubble+Shooter+Pop%21&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=Others&dpsp=-1&bt=MTcyMjU4OTM1Miw5MDkyLDYyNyw1OTE0MDgzMzYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=28519&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=12.75.40.54&nw=-1&nh=-1&bui=-1&lcod=5&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=5FD14F3F-3097-4DC8-9C30-9DB34438C53D&dmn=Apple+iPhone&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=48206&tgid=MTk0NjQ2NCAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28iPhone%3b+CPU+iPhone+OS+17_4+like+Mac+OS+X%29+AppleWebKit%2f605.1.15+%28KHTML%2c+like+Gecko%29+Mobile%2f15E148&ieiu=1]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.013109203428030014&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=17.4&vie=0&sci=0&dnb=0&idfv=5FD14F3F-3097-4DC8-9C30-9DB34438C53D&ocs=&ag=627&interstitial=1&ip=12.75.40.54&al=80279&nait=&an=Bubble+Shooter+Pop%21&nativeIcon=0&as=1252442&re=0&at=1&fbp=0.009166666666666667&rh=0&aid=b8e8ff7f5f3393494db92b63d45606dce1064215&viewability=-1&mraid=0&rw=0&aio=18752&skip=0&urid=131c5a09a5660c517d190acad9bab43cdca0c6d4244d27d655713&sd=1557357811&bt=MTcyMjU4OTM1Miw5MDkyLDYyNyw1OTE0MDgzMzYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=12.75.40.54&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9092&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=306321&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1011&db=87&dc=3&country=USA&ty=0&aelp=1&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=5&pbp=13.109203428030014&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=591408336&wp=0.26150989532470703&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61844&spmv=&pc=48206&pdi=&csi=28519&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "306321",
+                            "adomain": [
+                                "funplus.com"
+                            ],
+                            "bundle": "6443388218",
+                            "iurl": "https://cdn.atomex.net/creatives/9092/480x320/9092-video-d37cdad9-320x480.mp4",
+                            "cid": "306321",
+                            "crid": "306321",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.013109203428030014&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=17.4&vie=0&sci=0&dnb=0&idfv=5FD14F3F-3097-4DC8-9C30-9DB34438C53D&ocs=&ag=627&interstitial=1&ip=12.75.40.54&al=80279&nait=&an=Bubble+Shooter+Pop%21&nativeIcon=0&as=1252442&re=0&at=1&fbp=0.009166666666666667&rh=0&aid=b8e8ff7f5f3393494db92b63d45606dce1064215&viewability=-1&mraid=0&rw=0&aio=18752&skip=0&urid=131c5a09a5660c517d190acad9bab43cdca0c6d4244d27d655713&sd=1557357811&bt=MTcyMjU4OTM1Miw5MDkyLDYyNyw1OTE0MDgzMzYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=12.75.40.54&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9092&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=306321&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1011&db=87&dc=3&country=USA&ty=0&aelp=1&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=5&pbp=13.109203428030014&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=591408336&wp=0.26150989532470703&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61844&spmv=&pc=48206&pdi=&csi=28519&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.013109203428030014&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=17.4&vie=0&sci=0&dnb=0&idfv=5FD14F3F-3097-4DC8-9C30-9DB34438C53D&ocs=&ag=627&interstitial=1&ip=12.75.40.54&al=80279&nait=&an=Bubble+Shooter+Pop%21&nativeIcon=0&as=1252442&re=0&at=1&fbp=0.009166666666666667&rh=0&aid=b8e8ff7f5f3393494db92b63d45606dce1064215&viewability=-1&mraid=0&rw=0&aio=18752&skip=0&urid=131c5a09a5660c517d190acad9bab43cdca0c6d4244d27d655713&sd=1557357811&bt=MTcyMjU4OTM1Miw5MDkyLDYyNyw1OTE0MDgzMzYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=12.75.40.54&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9092&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=306321&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1011&db=87&dc=3&country=USA&ty=0&aelp=1&tz=-360&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_4+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=5&pbp=13.109203428030014&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=591408336&wp=0.26150989532470703&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61844&spmv=&pc=48206&pdi=&csi=28519&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "306321",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-830214c3d6ca31e255ed69910b657399-f8b51df68417ff31-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1037\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:02:32 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1814\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 24.1778,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 102,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 3554486335842557000,
+        "auctionDateTime": "2024-08-02T09:02:38.455Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": -1,
+        "auctionPageId": -1,
+        "auctionFormatId": 0,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "a42ac169-3daa-46a0-83f8-500acbb49a40",
+            "imp": [
+                {
+                    "id": "5d6563d1-9271-4c20-93db-c682d615c243",
+                    "video": {
+                        "mimes": [
+                            "video/mpeg",
+                            "video/mp4",
+                            "video/quicktime",
+                            "video/avi"
+                        ],
+                        "linearity": 1,
+                        "minduration": 5,
+                        "maxduration": 60,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17,
+                            1,
+                            2,
+                            5,
+                            16
+                        ],
+                        "api": [
+                            3,
+                            5,
+                            6,
+                            7
+                        ],
+                        "minbitrate": 56,
+                        "maxbitrate": 4096,
+                        "playbackmethod": [
+                            1
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0,
+                        "ext": {
+                            "rewarded": 1
+                        }
+                    },
+                    "tagid": "1896984-2-126808",
+                    "bidfloor": 0.64433,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "displaymanager": "BidMachine",
+                    "displaymanagerver": "2.3.2",
+                    "ext": {
+                        "wopv": "78ebebd7-08cd-4e63-b34c-1d08b456a94b",
+                        "to": 3
+                    },
+                    "rwdd": 1
+                }
+            ],
+            "app": {
+                "id": "1990366252",
+                "name": "Riding Extreme 3D",
+                "bundle": "com.ducky.bikehill3d",
+                "storeurl": "https://play.google.com/store/apps/details?id=com.ducky.bikehill3d",
+                "pagecat": [],
+                "domain": "playducky.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "keywords": "Racing",
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Linux; Android 14; 2311DRK48G Build/UP1A.230905.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.186 Mobile Safari/537.36",
+                "ip": "212.232.22.243",
+                "geo": {
+                    "country": "USA",
+                    "region": "VA",
+                    "city": "Warrenton",
+                    "zip": "20187",
+                    "type": 2,
+                    "lat": 38.719,
+                    "lon": -77.7416,
+                    "ipservice": 2
+                },
+                "dpidsha1": "6f992488f26c6e97ef43bab5f41f2d732e9926a9",
+                "dpidmd5": "bac1df3279137eaf136bbfb0b65cd297",
+                "make": "xiaomi",
+                "model": "2311drk48g",
+                "os": "android",
+                "osv": "14.0.0",
+                "js": 1,
+                "connectiontype": 3,
+                "devicetype": 4,
+                "language": "fa",
+                "ifa": "562d08f9-879e-4a11-8879-9f1942cfa334",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 187,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4",
+                "IAB24",
+                "IAB8-18",
+                "IAB8-5",
+                "IAB11-4"
+            ],
+            "badv": [
+                "adquery.io",
+                "aliexpress.com",
+                "uplevelrewards.com",
+                "opinion-hk-76.com",
+                "wonderful-surprise.com",
+                "adv_2352_dom.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "3fa5ebaf-3d6c-4cca-a08f-806ea73c344c",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986776",
+                                "rid": "2918.z9j2ni8olydd0vbe8nnsa",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1YN-"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "a42ac169-3daa-46a0-83f8-500acbb49a40",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "309690",
+                            "impid": "5d6563d1-9271-4c20-93db-c682d615c243",
+                            "price": 1.45081,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"309690\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=a42ac169-3daa-46a0-83f8-500acbb49a40&urid=bf1a7809a56799b284d938fad545b427cc8404d94fb06d0c18897&l=0&rt=1722589358&ag=627&pid=1&sid=589672966&cc=0&us=2050919&fp=0&li=809&a=8849&aio=17929&al=77504&cr=309690&ivs=59069&co=229&re=0&ci=0&me=0&dma=0&tz=60&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=4&db=82&dm=937414&dt=3&dnt=1&rh=0&rw=0&aid=562d08f9-879e-4a11-8879-9f1942cfa334&native=0&interstitial=1&osv=14.0.0&contype=3&res=&id=&lid=&mn=32_12&pp=0.001741&pbp=1.740971&fbp=0.001451&protocol=2.5&as=12524152&sspSiteId=1990366252&wp=0.026371&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=com.ducky.bikehill3d&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=212.232.22.243&an=Riding+Extreme+3D&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=fa&dpsp=-1&bt=MTcyMjU4OTM1OCw4ODQ5LDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=29227&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=212.232.22.243&nw=-1&nh=-1&bui=-1&lcod=4&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=&dmn=2311drk48g&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=20187&tgid=1896984-2-126808&sci=0&ua=Mozilla%2f5.0+%28Linux%3b+Android+14%3b+2311DRK48G+Build%2fUP1A.230905.011%3b+wv%29+AppleWebKit%2f537.36+%28KHTML%2c+like+Gecko%29+Version%2f4.0+Chrome%2f126.0.6478.186+Mobile+Safari%2f537.36&ieiu=0]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.0017409705324098468&pt=3&dmn=2311drk48g&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.232.22.243&al=77504&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524152&re=0&at=1&fbp=0.0014508087770082057&rh=0&aid=562d08f9-879e-4a11-8879-9f1942cfa334&viewability=-1&mraid=0&rw=0&aio=17929&skip=0&urid=bf1a7809a56799b284d938fad545b427cc8404d94fb06d0c18897&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTM1OCw4ODQ5LDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.232.22.243&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=8849&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=309690&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=809&db=82&dc=3&country=USA&ty=0&aelp=0&tz=60&dm=937414&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+2311DRK48G+Build%2FUP1A.230905.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=1.7409705324098468&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.02637094259262085&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=59069&spmv=&pc=20187&pdi=&csi=29227&tgid=1896984-2-126808&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "309690",
+                            "adomain": [
+                                "apps.com.tr"
+                            ],
+                            "bundle": "tr.com.apps.fashion.battle",
+                            "iurl": "https://cdn.atomex.net/creatives/8849/480x320/8849-video-7f4025fc-320x480.mp4",
+                            "cid": "309690",
+                            "crid": "309690",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.0017409705324098468&pt=3&dmn=2311drk48g&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.232.22.243&al=77504&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524152&re=0&at=1&fbp=0.0014508087770082057&rh=0&aid=562d08f9-879e-4a11-8879-9f1942cfa334&viewability=-1&mraid=0&rw=0&aio=17929&skip=0&urid=bf1a7809a56799b284d938fad545b427cc8404d94fb06d0c18897&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTM1OCw4ODQ5LDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.232.22.243&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=8849&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=309690&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=809&db=82&dc=3&country=USA&ty=0&aelp=0&tz=60&dm=937414&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+2311DRK48G+Build%2FUP1A.230905.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=1.7409705324098468&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.02637094259262085&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=59069&spmv=&pc=20187&pdi=&csi=29227&tgid=1896984-2-126808&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.0017409705324098468&pt=3&dmn=2311drk48g&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.232.22.243&al=77504&nait=&an=Riding+Extreme+3D&nativeIcon=0&as=12524152&re=0&at=1&fbp=0.0014508087770082057&rh=0&aid=562d08f9-879e-4a11-8879-9f1942cfa334&viewability=-1&mraid=0&rw=0&aio=17929&skip=0&urid=bf1a7809a56799b284d938fad545b427cc8404d94fb06d0c18897&sd=com.ducky.bikehill3d&bt=MTcyMjU4OTM1OCw4ODQ5LDYyNyw1ODk2NzI5NjYAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.232.22.243&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=8849&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=309690&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=809&db=82&dc=3&country=USA&ty=0&aelp=0&tz=60&dm=937414&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+2311DRK48G+Build%2FUP1A.230905.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=4&pbp=1.7409705324098468&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=589672966&wp=0.02637094259262085&lang=fa&sdnt=0&cssp=0&os=4&plc=5&ivs=59069&spmv=&pc=20187&pdi=&csi=29227&tgid=1896984-2-126808&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "309690",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-e29f8374140648e188b2ac8ec5334406-3eddb82974049ff6-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1352\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:02:38 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1850\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 22.329,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 147,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 2617109607267972600,
+        "auctionDateTime": "2024-08-02T09:02:49.787Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 607666,
+        "auctionPageId": 1851119,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "28bd3981-d1d5-4f8f-8b89-d18b3166c2ac",
+            "imp": [
+                {
+                    "id": "0ec2416f-869c-4aad-9bfc-46466a6e9864",
+                    "video": {
+                        "mimes": [
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 5,
+                        "maxduration": 3600,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [],
+                        "playbackmethod": [
+                            2
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 4
+                    },
+                    "tagid": "MTg1MTExOSAxMjM3Njk",
+                    "bidfloor": 0.76031,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "displaymanager": "prebid-mobile",
+                    "displaymanagerver": "2.0.3",
+                    "ext": {
+                        "wopv": "c2c94dcb-b868-43b4-9837-2e1526de5d0b",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "607666",
+                "name": "iFunny - cool memes & videos",
+                "bundle": "mobi.ifunny",
+                "storeurl": "https://play.google.com/store/apps/details?id=mobi.ifunny",
+                "cat": [],
+                "pagecat": [],
+                "domain": "ifunny.co",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "keywords": "Entertainment",
+                "ext": {
+                    "inventorypartnerdomain": "ifunny.co"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Linux; Android 14; SM-S916U Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.64 Mobile Safari/537.36",
+                "ip": "99.35.14.43",
+                "geo": {
+                    "country": "USA",
+                    "region": "FL",
+                    "city": "Melbourne",
+                    "zip": "32904",
+                    "type": 1,
+                    "lat": 28.0608,
+                    "lon": -80.6722
+                },
+                "dpidsha1": "5e315b811c24927e7c80add15885064f8cdf36a5",
+                "dpidmd5": "2673153e6014013c1dc1e881879dd211",
+                "make": "samsung",
+                "model": "sm-s916u",
+                "os": "Android",
+                "osv": "14",
+                "connectiontype": 2,
+                "devicetype": 4,
+                "language": "en",
+                "ifa": "d2bc9d9b-61a4-44b6-8857-a8cbce28ed56",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1,
+                    "ifa_type": "aaid"
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 111,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4",
+                "IAB7",
+                "IAB9"
+            ],
+            "badv": [
+                "adv_956_dom.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "b6e335fe-f790-4e39-8ca9-a9ecb7abb2a8",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "987086",
+                                "rid": "ad63d54d49e2457a95a7020862e1a7b1",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "28bd3981-d1d5-4f8f-8b89-d18b3166c2ac",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "319021",
+                            "impid": "0ec2416f-869c-4aad-9bfc-46466a6e9864",
+                            "price": 6.11503,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"319021\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=28bd3981-d1d5-4f8f-8b89-d18b3166c2ac&urid=131c8f09a56a5d8c591eb40aad19b4112cadd1d4ea2c0f5c15031&l=0&rt=1722589369&ag=627&pid=1&sid=557902529&cc=0&us=2059317&fp=0&li=1008&a=9063&aio=18629&al=80051&cr=319021&ivs=61616&co=229&re=70&ci=14796&me=0&dma=0&tz=-300&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=4&db=65&dm=933518&dt=3&dnt=1&rh=0&rw=0&aid=d2bc9d9b-61a4-44b6-8857-a8cbce28ed56&native=0&interstitial=1&osv=14&contype=2&res=&id=&lid=&mn=10_3&pp=0.012738&pbp=67.511322&fbp=0.006115&protocol=2.5&as=1252495&sspSiteId=607666&wp=0.303282&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=mobi.ifunny&skip=1&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=99.35.14.43&an=iFunny+-+cool+memes+%26+videos&nativeVideo=0&startDelay=0&plc=4&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=en&dpsp=-1&bt=MTcyMjU4OTM2OSw5MDYzLDYyNyw1NTc5MDI1MjkAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=31218&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=99.35.14.43&nw=-1&nh=-1&bui=-1&lcod=6&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=&dmn=sm-s916u&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=32904&tgid=MTg1MTExOSAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28Linux%3b+Android+14%3b+SM-S916U+Build%2fUP1A.231005.007%3b+wv%29+AppleWebKit%2f537.36+%28KHTML%2c+like+Gecko%29+Version%2f4.0+Chrome%2f127.0.6533.64+Mobile+Safari%2f537.36&ieiu=0]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.012737984769046307&pt=3&dmn=sm-s916u&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=99.35.14.43&al=80051&nait=&an=iFunny+-+cool+memes+%26+videos&nativeIcon=0&as=1252495&re=70&at=1&fbp=0.0061150288&rh=0&aid=d2bc9d9b-61a4-44b6-8857-a8cbce28ed56&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8f09a56a5d8c591eb40aad19b4112cadd1d4ea2c0f5c15031&sd=mobi.ifunny&bt=MTcyMjU4OTM2OSw5MDYzLDYyNyw1NTc5MDI1MjkAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=99.35.14.43&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=14796&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319021&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=65&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=933518&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+SM-S916U+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F127.0.6533.64+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=6&pbp=67.51132170552322&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=557902529&wp=0.30328235030174255&lang=en&sdnt=0&cssp=0&os=4&plc=4&ivs=61616&spmv=&pc=32904&pdi=&csi=31218&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "319021",
+                            "adomain": [
+                                "tap-nation.io"
+                            ],
+                            "bundle": "com.RedLineGames.Game49",
+                            "iurl": "https://cdn.atomex.net/creatives/9063/480x320/9063-video-c0da354c-320x480.mp4",
+                            "cid": "319021",
+                            "crid": "319021",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.012737984769046307&pt=3&dmn=sm-s916u&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=99.35.14.43&al=80051&nait=&an=iFunny+-+cool+memes+%26+videos&nativeIcon=0&as=1252495&re=70&at=1&fbp=0.0061150288&rh=0&aid=d2bc9d9b-61a4-44b6-8857-a8cbce28ed56&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8f09a56a5d8c591eb40aad19b4112cadd1d4ea2c0f5c15031&sd=mobi.ifunny&bt=MTcyMjU4OTM2OSw5MDYzLDYyNyw1NTc5MDI1MjkAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=99.35.14.43&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=14796&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319021&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=65&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=933518&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+SM-S916U+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F127.0.6533.64+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=6&pbp=67.51132170552322&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=557902529&wp=0.30328235030174255&lang=en&sdnt=0&cssp=0&os=4&plc=4&ivs=61616&spmv=&pc=32904&pdi=&csi=31218&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.012737984769046307&pt=3&dmn=sm-s916u&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=99.35.14.43&al=80051&nait=&an=iFunny+-+cool+memes+%26+videos&nativeIcon=0&as=1252495&re=70&at=1&fbp=0.0061150288&rh=0&aid=d2bc9d9b-61a4-44b6-8857-a8cbce28ed56&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8f09a56a5d8c591eb40aad19b4112cadd1d4ea2c0f5c15031&sd=mobi.ifunny&bt=MTcyMjU4OTM2OSw5MDYzLDYyNyw1NTc5MDI1MjkAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=99.35.14.43&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=14796&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319021&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=65&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=933518&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+SM-S916U+Build%2FUP1A.231005.007%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F127.0.6533.64+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=6&pbp=67.51132170552322&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=557902529&wp=0.30328235030174255&lang=en&sdnt=0&cssp=0&os=4&plc=4&ivs=61616&spmv=&pc=32904&pdi=&csi=31218&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "319021",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-c22e2aa930c9baa6d7436e9f6a2a91cd-52626031d19ca76d-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1223\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:02:49 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1852\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 19.223,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 156,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 6298830377315059000,
+        "auctionDateTime": "2024-08-02T09:03:22.231Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 607666,
+        "auctionPageId": 1851119,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "e503edf6-532b-43e8-b388-bda66a70f1de",
+            "imp": [
+                {
+                    "id": "2b391e70-385c-4a28-a82a-e18392cbc824",
+                    "video": {
+                        "mimes": [
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 3,
+                        "maxduration": 300,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            1,
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 2
+                    },
+                    "tagid": "MTg1MTExOSAxMjM3Njk",
+                    "bidfloor": 0.5799,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "0278e9db-30cb-4d7f-9f54-b142bc92efbc",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "607666",
+                "name": "Solitaire - Classic Card Games",
+                "bundle": "beetles.puzzle.solitaire",
+                "storeurl": "https://play.google.com/store/apps/details?id=beetles.puzzle.solitaire",
+                "cat": [],
+                "pagecat": [],
+                "domain": "oakevergames.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "keywords": "Card",
+                "content": {
+                    "cattax": 1
+                },
+                "ext": {
+                    "inventorypartnerdomain": "learnings.ai"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Linux; Android 7.0; LGL164VL Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 WindVane/3.0.2",
+                "ip": "69.126.55.17",
+                "geo": {
+                    "country": "USA",
+                    "region": "CT",
+                    "city": "Moriches",
+                    "zip": "06606",
+                    "type": 1,
+                    "lat": 41.2045,
+                    "lon": -73.1988
+                },
+                "dpidsha1": "cdc3d6ed58e3702480a8bbdccc32dec2386f329d",
+                "dpidmd5": "07a97dbdd1e288167146e67e05e0d71e",
+                "make": "lg",
+                "model": "L164VL",
+                "os": "Android",
+                "osv": "7.0",
+                "js": 1,
+                "connectiontype": 2,
+                "devicetype": 4,
+                "language": "en",
+                "ifa": "c6571fe4-ecb1-48bc-a994-3e736fff929e",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1,
+                    "ifa_type": "aaid"
+                }
+            },
+            "user": {
+                "id": "0",
+                "gender": "O"
+            },
+            "at": 1,
+            "tmax": 113,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [
+                "adv_956_dom.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "29b7fa5a-949d-44a9-927e-dac410042860",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "987086",
+                                "rid": "c60c17cf39534c34b457f05c393a7caf",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "e503edf6-532b-43e8-b388-bda66a70f1de",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "278368",
+                            "impid": "2b391e70-385c-4a28-a82a-e18392cbc824",
+                            "price": 1.79268,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"278368\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=e503edf6-532b-43e8-b388-bda66a70f1de&urid=131c6709a57249aaee6db10a3afcb454cc9a70d6aea255ab32392&l=0&rt=1722589402&ag=627&pid=1&sid=584497352&cc=0&us=2060774&fp=0&li=524&a=7902&aio=17867&al=71672&cr=278368&ivs=53243&co=229&re=99&ci=15652&me=0&dma=0&tz=-300&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=4&db=49&dm=1&dt=3&dnt=1&rh=0&rw=0&aid=c6571fe4-ecb1-48bc-a994-3e736fff929e&native=0&interstitial=1&osv=7.0&contype=2&res=&id=&lid=&mn=32_12&pp=0.002151&pbp=2.151216&fbp=0.001793&protocol=2.5&as=1252455&sspSiteId=607666&wp=0.010000&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=beetles.puzzle.solitaire&skip=1&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=69.126.55.17&an=Solitaire+-+Classic+Card+Games&nativeVideo=0&startDelay=0&plc=2&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=en&dpsp=-1&bt=MTcyMjU4OTQwMiw3OTAyLDYyNyw1ODQ0OTczNTIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=23978&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=69.126.55.17&nw=-1&nh=-1&bui=-1&lcod=e&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=&dmn=L164VL&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=06606&tgid=MTg1MTExOSAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28Linux%3b+Android+7.0%3b+LGL164VL+Build%2fNRD90U%3b+wv%29+AppleWebKit%2f537.36+%28KHTML%2c+like+Gecko%29+Version%2f4.0+Chrome%2f88.0.4324.181+Mobile+Safari%2f537.36+WindVane%2f3.0.2&ieiu=0]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.002151216147467494&pt=3&dmn=L164VL&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=7.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=69.126.55.17&al=71672&nait=&an=Solitaire+-+Classic+Card+Games&nativeIcon=0&as=1252455&re=99&at=1&fbp=0.0017926801228895783&rh=0&aid=c6571fe4-ecb1-48bc-a994-3e736fff929e&viewability=-1&mraid=0&rw=0&aio=17867&skip=1&urid=131c6709a57249aaee6db10a3afcb454cc9a70d6aea255ab32392&sd=beetles.puzzle.solitaire&bt=MTcyMjU4OTQwMiw3OTAyLDYyNyw1ODQ0OTczNTIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=69.126.55.17&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=7902&cp1=&ci=15652&brpi=4695&l=0&co=229&prodIds=&m=1&cr=278368&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=524&db=49&dc=3&country=USA&ty=0&aelp=1&tz=-300&dm=1&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LGL164VL+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.181+Mobile+Safari%2F537.36+WindVane%2F3.0.2&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=e&pbp=2.151216147467494&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584497352&wp=0.01&lang=en&sdnt=0&cssp=0&os=4&plc=2&ivs=53243&spmv=&pc=06606&pdi=&csi=23978&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "278368",
+                            "adomain": [
+                                "innogames.com"
+                            ],
+                            "bundle": "com.innogames.foeandroid",
+                            "iurl": "https://cdn.atomex.net/creatives/7902/480x320/7902-video-abacaab9-320x480.mp4",
+                            "cid": "278368",
+                            "crid": "278368",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.002151216147467494&pt=3&dmn=L164VL&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=7.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=69.126.55.17&al=71672&nait=&an=Solitaire+-+Classic+Card+Games&nativeIcon=0&as=1252455&re=99&at=1&fbp=0.0017926801228895783&rh=0&aid=c6571fe4-ecb1-48bc-a994-3e736fff929e&viewability=-1&mraid=0&rw=0&aio=17867&skip=1&urid=131c6709a57249aaee6db10a3afcb454cc9a70d6aea255ab32392&sd=beetles.puzzle.solitaire&bt=MTcyMjU4OTQwMiw3OTAyLDYyNyw1ODQ0OTczNTIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=69.126.55.17&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=7902&cp1=&ci=15652&brpi=4695&l=0&co=229&prodIds=&m=1&cr=278368&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=524&db=49&dc=3&country=USA&ty=0&aelp=1&tz=-300&dm=1&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LGL164VL+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.181+Mobile+Safari%2F537.36+WindVane%2F3.0.2&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=e&pbp=2.151216147467494&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584497352&wp=0.01&lang=en&sdnt=0&cssp=0&os=4&plc=2&ivs=53243&spmv=&pc=06606&pdi=&csi=23978&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.002151216147467494&pt=3&dmn=L164VL&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=7.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=69.126.55.17&al=71672&nait=&an=Solitaire+-+Classic+Card+Games&nativeIcon=0&as=1252455&re=99&at=1&fbp=0.0017926801228895783&rh=0&aid=c6571fe4-ecb1-48bc-a994-3e736fff929e&viewability=-1&mraid=0&rw=0&aio=17867&skip=1&urid=131c6709a57249aaee6db10a3afcb454cc9a70d6aea255ab32392&sd=beetles.puzzle.solitaire&bt=MTcyMjU4OTQwMiw3OTAyLDYyNyw1ODQ0OTczNTIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=69.126.55.17&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=7902&cp1=&ci=15652&brpi=4695&l=0&co=229&prodIds=&m=1&cr=278368&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=524&db=49&dc=3&country=USA&ty=0&aelp=1&tz=-300&dm=1&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LGL164VL+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.181+Mobile+Safari%2F537.36+WindVane%2F3.0.2&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=e&pbp=2.151216147467494&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584497352&wp=0.01&lang=en&sdnt=0&cssp=0&os=4&plc=2&ivs=53243&spmv=&pc=06606&pdi=&csi=23978&tgid=MTg1MTExOSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "278368",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-9db7e359ea468b0d7c8b7eabda9ff181-a602974aa3f609d0-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1234\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:03:22 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1850\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 24.4991,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 139,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 8457876713453928000,
+        "auctionDateTime": "2024-08-02T09:03:26.757Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 663019,
+        "auctionPageId": 1988025,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "2b427bc4-f450-49b9-8fbb-3e2b0acce623",
+            "imp": [
+                {
+                    "id": "d1c85216-139d-4844-b7dd-d0fed8d7fbef",
+                    "video": {
+                        "mimes": [
+                            "video/x-flv",
+                            "video/webm",
+                            "video/3gpp",
+                            "application/javascript",
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 1,
+                        "maxduration": 120,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0
+                    },
+                    "tagid": "MTk4ODAyNSAxMjM3Njk",
+                    "bidfloor": 1.93299,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "a8519d3f-f99e-439b-bf6c-a377f0d38ead",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "663019",
+                "name": "Spider Solitaire: Card Game",
+                "bundle": "395979574",
+                "storeurl": "https://itunes.apple.com/us/app/spider-solitaire-free-by-mobilityware/id395979574?ls=1&mt=8&axb=691",
+                "cat": [],
+                "pagecat": [],
+                "domain": "www.mobilityware.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+                "ip": "107.77.234.110",
+                "geo": {
+                    "country": "USA",
+                    "region": "KS",
+                    "city": "mount hope",
+                    "zip": "67108",
+                    "type": 2,
+                    "lat": 37.76354,
+                    "lon": -97.79129,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "Apple iPhone",
+                "os": "iOS",
+                "osv": "17.5.1",
+                "js": 1,
+                "connectiontype": 3,
+                "devicetype": 4,
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [],
+            "source": {
+                "fd": 1,
+                "tid": "5d34c2c4-5f01-4ff1-b991-0a27481fc239",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986649",
+                                "rid": "2093057309497292105",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1---"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "2b427bc4-f450-49b9-8fbb-3e2b0acce623",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "349497",
+                            "impid": "d1c85216-139d-4844-b7dd-d0fed8d7fbef",
+                            "price": 3.33333,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"349497\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=2b427bc4-f450-49b9-8fbb-3e2b0acce623&urid=131caf09a57363c6132159bac54db4644c934bd3abd1ee6b07736&l=0&rt=1722589406&ag=627&pid=1&sid=502073933&cc=0&us=2062777&fp=0&li=1016&a=9104&aio=18785&al=79989&cr=349497&ivs=61554&co=229&re=72&ci=0&me=0&dma=0&tz=-300&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=3&db=87&dm=934959&dt=3&dnt=1&rh=0&rw=0&aid=2875ee9cd355e1e9d1cef36157dde600de62c889&native=0&interstitial=1&osv=17.5.1&contype=3&res=&id=&lid=&mn=10_3&pp=0.057960&pbp=11.591978&fbp=0.003333&protocol=2.5&as=1252527&sspSiteId=663019&wp=0.377019&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=395979574&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=107.77.234.110&an=Spider+Solitaire%3a+Card+Game&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=Others&dpsp=-1&bt=MTcyMjU4OTQwNiw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=36614&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=107.77.234.110&nw=-1&nh=-1&bui=-1&lcod=9&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=73DF33CA-BF1E-48F4-B52A-3CE29DE73763&dmn=Apple+iPhone&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=67108&tgid=MTk4ODAyNSAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28iPhone%3b+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2f605.1.15+%28KHTML%2c+like+Gecko%29+Mobile%2f15E148&ieiu=1]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.05795988813042641&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=73DF33CA-BF1E-48F4-B52A-3CE29DE73763&ocs=&ag=627&interstitial=1&ip=107.77.234.110&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252527&re=72&at=1&fbp=0.0033333333333333335&rh=0&aid=2875ee9cd355e1e9d1cef36157dde600de62c889&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131caf09a57363c6132159bac54db4644c934bd3abd1ee6b07736&sd=395979574&bt=MTcyMjU4OTQwNiw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.77.234.110&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=9&pbp=11.591977798819208&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.37701866030693054&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=67108&pdi=&csi=36614&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "349497",
+                            "adomain": [
+                                "yodo1.com"
+                            ],
+                            "iurl": "https://cdn.atomex.net/creatives/9104/480x320/9104-video-ff8c2796-320x480.mp4",
+                            "cid": "349497",
+                            "crid": "349497",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.05795988813042641&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=73DF33CA-BF1E-48F4-B52A-3CE29DE73763&ocs=&ag=627&interstitial=1&ip=107.77.234.110&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252527&re=72&at=1&fbp=0.0033333333333333335&rh=0&aid=2875ee9cd355e1e9d1cef36157dde600de62c889&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131caf09a57363c6132159bac54db4644c934bd3abd1ee6b07736&sd=395979574&bt=MTcyMjU4OTQwNiw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.77.234.110&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=9&pbp=11.591977798819208&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.37701866030693054&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=67108&pdi=&csi=36614&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.05795988813042641&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=3&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=73DF33CA-BF1E-48F4-B52A-3CE29DE73763&ocs=&ag=627&interstitial=1&ip=107.77.234.110&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252527&re=72&at=1&fbp=0.0033333333333333335&rh=0&aid=2875ee9cd355e1e9d1cef36157dde600de62c889&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131caf09a57363c6132159bac54db4644c934bd3abd1ee6b07736&sd=395979574&bt=MTcyMjU4OTQwNiw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.77.234.110&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=349497&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-300&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=9&pbp=11.591977798819208&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.37701866030693054&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=67108&pdi=&csi=36614&tgid=MTk4ODAyNSAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "349497",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-7530ed89aef0fb2bad3f26fd9fc6504a-51308bb246dbb5e3-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1082\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:03:26 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1815\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 49.3108,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 319,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 8531145605177535000,
+        "auctionDateTime": "2024-08-02T09:03:28.257Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": -1,
+        "auctionPageId": -1,
+        "auctionFormatId": 0,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "53df9753-0fca-456a-8c73-77c8ea0c929a",
+            "imp": [
+                {
+                    "id": "faa0ea37-0702-46a5-806f-4b39d480608c",
+                    "video": {
+                        "mimes": [
+                            "video/mpeg",
+                            "video/mp4",
+                            "video/quicktime",
+                            "video/avi"
+                        ],
+                        "linearity": 1,
+                        "minduration": 5,
+                        "maxduration": 60,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6
+                        ],
+                        "w": 480,
+                        "h": 320,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17,
+                            5,
+                            1,
+                            13,
+                            2,
+                            4
+                        ],
+                        "api": [],
+                        "maxbitrate": 4096,
+                        "playbackmethod": [
+                            1
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 1
+                    },
+                    "tagid": "default",
+                    "bidfloor": 1.95877,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "displaymanager": "BidMachine",
+                    "displaymanagerver": "2.6.0",
+                    "ext": {
+                        "wopv": "d8ac61e4-1b6a-4711-a8db-53a038878d57",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "164546204",
+                "name": "أنا الواحد",
+                "bundle": "vh.one",
+                "storeurl": "https://play.google.com/store/apps/details?id=vh.one",
+                "pagecat": [],
+                "domain": "aigames.ae",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (Linux; Android 14; RMX3630 Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.186 Mobile Safari/537.36",
+                "ip": "212.95.139.146",
+                "geo": {
+                    "country": "USA",
+                    "region": "CA",
+                    "lat": 34.0544,
+                    "lon": -118.244
+                },
+                "make": "realme",
+                "model": "rmx3630",
+                "os": "Android",
+                "osv": "14.0.0",
+                "js": 1,
+                "connectiontype": 2,
+                "devicetype": 4,
+                "language": "ar",
+                "ifa": "6c39057c-fe72-47fb-9121-0173c128b511",
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1,
+                    "ifv": "",
+                    "ifa_type": "aaid"
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4",
+                "IAB8",
+                "IAB7",
+                "IAB19",
+                "IAB25",
+                "IAB11",
+                "IAB12",
+                "IAB9"
+            ],
+            "badv": [
+                "pua.gov.il",
+                "idf.il",
+                "mossad.gov.il",
+                "export.gov.il",
+                "www.gov.il",
+                "cloudfront.net",
+                "passionapp.co",
+                "blogspot.com",
+                "treasurechest2.com",
+                "azarlive.com",
+                "oddangleclub.com",
+                "clubx.com.au",
+                "my-fantasy.life",
+                "mosesat.com",
+                "shopadameve.com",
+                "moc.gov.il",
+                "gov.il",
+                "gov.ps",
+                "landpage.webfic.com",
+                "co.il",
+                "economy.gov.il",
+                "cyber.gov.il",
+                "tel-aviv.gov.il",
+                "muni.il",
+                "shopadmeve.com"
+            ],
+            "source": {
+                "fd": 1,
+                "tid": "c3b87d48-9a47-459b-8efa-1e69f467bb10",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986647",
+                                "rid": "7186a7613622de61d3d32523f86fc771efeb5831",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1---"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "53df9753-0fca-456a-8c73-77c8ea0c929a",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "319026",
+                            "impid": "faa0ea37-0702-46a5-806f-4b39d480608c",
+                            "price": 6.16667,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"319026\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=53df9753-0fca-456a-8c73-77c8ea0c929a&urid=131c8b09a573c16ae0a9e14a3e00b45dbcb596d041617b6406287&l=0&rt=1722589408&ag=627&pid=1&sid=584901922&cc=0&us=2059318&fp=0&li=1008&a=9063&aio=18629&al=76979&cr=319026&ivs=58544&co=229&re=65&ci=0&me=0&dma=0&tz=-480&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=4&db=66000&dm=935336&dt=3&dnt=1&rh=0&rw=0&aid=6c39057c-fe72-47fb-9121-0173c128b511&native=0&interstitial=1&osv=14.0.0&contype=2&res=&id=&lid=&mn=32_12&pp=0.009845&pbp=22.642996&fbp=0.006167&protocol=2.5&as=1252491&sspSiteId=164546204&wp=0.066777&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=vh.one&skip=1&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=212.95.139.146&an=I%2c+The+One+%e2%80%94+Fun+Fighting+Game&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=ar&dpsp=-1&bt=MTcyMjU4OTQwOCw5MDYzLDYyNyw1ODQ5MDE5MjIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=31220&vw=480&vh=320&dvt=-1&ocs=&cssp=0&pt=3&mip=212.95.139.146&nw=-1&nh=-1&bui=-1&lcod=1&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=&dmn=rmx3630&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=&tgid=default&sci=0&ua=Mozilla%2f5.0+%28Linux%3b+Android+14%3b+RMX3630+Build%2fUKQ1.230924.001%3b+wv%29+AppleWebKit%2f537.36+%28KHTML%2c+like+Gecko%29+Version%2f4.0+Chrome%2f126.0.6478.186+Mobile+Safari%2f537.36&ieiu=0]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.009844781154516187&pt=3&dmn=rmx3630&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.95.139.146&al=76979&nait=&an=I%2C+The+One+%E2%80%94+Fun+Fighting+Game&nativeIcon=0&as=1252491&re=65&at=1&fbp=0.006166666666666667&rh=0&aid=6c39057c-fe72-47fb-9121-0173c128b511&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8b09a573c16ae0a9e14a3e00b45dbcb596d041617b6406287&sd=vh.one&bt=MTcyMjU4OTQwOCw5MDYzLDYyNyw1ODQ5MDE5MjIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.95.139.146&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319026&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=66000&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=935336&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+RMX3630+Build%2FUKQ1.230924.001%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=320&rewarded=-1&nh=-1&tmpFlag=0&lcod=1&pbp=22.642996185951482&vw=480&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584901922&wp=0.06677728146314621&lang=ar&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=&pdi=&csi=31220&tgid=default&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "319026",
+                            "adomain": [
+                                "tap-nation.io"
+                            ],
+                            "bundle": "com.RedLineGames.Game49",
+                            "iurl": "https://cdn.atomex.net/creatives/9063/320x480/9063-video-6d27600b-480x320.mp4",
+                            "cid": "319026",
+                            "crid": "319026",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 480,
+                            "h": 320,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.009844781154516187&pt=3&dmn=rmx3630&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.95.139.146&al=76979&nait=&an=I%2C+The+One+%E2%80%94+Fun+Fighting+Game&nativeIcon=0&as=1252491&re=65&at=1&fbp=0.006166666666666667&rh=0&aid=6c39057c-fe72-47fb-9121-0173c128b511&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8b09a573c16ae0a9e14a3e00b45dbcb596d041617b6406287&sd=vh.one&bt=MTcyMjU4OTQwOCw5MDYzLDYyNyw1ODQ5MDE5MjIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.95.139.146&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319026&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=66000&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=935336&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+RMX3630+Build%2FUKQ1.230924.001%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=320&rewarded=-1&nh=-1&tmpFlag=0&lcod=1&pbp=22.642996185951482&vw=480&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584901922&wp=0.06677728146314621&lang=ar&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=&pdi=&csi=31220&tgid=default&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.009844781154516187&pt=3&dmn=rmx3630&pu=1000&del=&contype=2&adpid=usev-190&lmt=0&osv=14.0.0&vie=0&sci=0&dnb=0&idfv=&ocs=&ag=627&interstitial=1&ip=212.95.139.146&al=76979&nait=&an=I%2C+The+One+%E2%80%94+Fun+Fighting+Game&nativeIcon=0&as=1252491&re=65&at=1&fbp=0.006166666666666667&rh=0&aid=6c39057c-fe72-47fb-9121-0173c128b511&viewability=-1&mraid=0&rw=0&aio=18629&skip=1&urid=131c8b09a573c16ae0a9e14a3e00b45dbcb596d041617b6406287&sd=vh.one&bt=MTcyMjU4OTQwOCw5MDYzLDYyNyw1ODQ5MDE5MjIAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=212.95.139.146&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9063&cp1=&ci=0&brpi=4695&l=0&co=229&prodIds=&m=1&cr=319026&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=0&tpv=0&li=1008&db=66000&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=935336&pid=1&ua=Mozilla%2F5.0+%28Linux%3B+Android+14%3B+RMX3630+Build%2FUKQ1.230924.001%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F126.0.6478.186+Mobile+Safari%2F537.36&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=32_12&nadt=&wpl=7&vh=320&rewarded=-1&nh=-1&tmpFlag=0&lcod=1&pbp=22.642996185951482&vw=480&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=584901922&wp=0.06677728146314621&lang=ar&sdnt=0&cssp=0&os=4&plc=5&ivs=58544&spmv=&pc=&pdi=&csi=31220&tgid=default&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "319026",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-66baaae640f0f6ed17ac61c5a7c43789-a7ccf4ac3fb6c067-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1347\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:03:28 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1851\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 11.1846,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 302,
+        "bidStatusList": []
+    },
+    {
+        "jobsIds": [
+            91523
+        ],
+        "partnerId": 398,
+        "auctionId": 3752121571685811700,
+        "auctionDateTime": "2024-08-02T09:03:30.548Z",
+        "auctionNetworkId": 4695,
+        "auctionSiteId": 643856,
+        "auctionPageId": 1946464,
+        "auctionFormatId": 123769,
+        "auctionInsertionId": 0,
+        "auctionCountryCode": "USA",
+        "auctionEnvironmentType": 2,
+        "auctionImpressionType": 3,
+        "partnerEligibleDeals": [],
+        "partnerBidRequest": {
+            "id": "8e4aa250-7ed7-423e-b3ac-78043cc56c39",
+            "imp": [
+                {
+                    "id": "3abbdd16-4eb3-4c19-982f-1e2f1ab9dff9",
+                    "video": {
+                        "mimes": [
+                            "video/x-flv",
+                            "video/webm",
+                            "video/3gpp",
+                            "application/javascript",
+                            "video/mp4"
+                        ],
+                        "linearity": 1,
+                        "minduration": 1,
+                        "maxduration": 120,
+                        "protocols": [
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        "w": 320,
+                        "h": 480,
+                        "startdelay": 0,
+                        "pos": 7,
+                        "battr": [
+                            3,
+                            8,
+                            9,
+                            10,
+                            12,
+                            14,
+                            17
+                        ],
+                        "api": [
+                            2
+                        ],
+                        "playbackmethod": [
+                            5
+                        ],
+                        "boxingallowed": 1,
+                        "placement": 5,
+                        "skip": 0
+                    },
+                    "tagid": "MTk0NjQ2NCAxMjM3Njk",
+                    "bidfloor": 1.93299,
+                    "bidfloorcur": "USD",
+                    "instl": 1,
+                    "secure": 1,
+                    "ext": {
+                        "wopv": "797cd98d-b122-4406-924f-5f40e3a3b7fb",
+                        "to": 3
+                    }
+                }
+            ],
+            "app": {
+                "id": "643856",
+                "name": "Spider Solitaire: Card Game",
+                "bundle": "395979574",
+                "storeurl": "https://itunes.apple.com/us/app/spider-solitaire-free-by-mobilityware/id395979574?ls=1&mt=8&axb=691",
+                "cat": [],
+                "pagecat": [],
+                "domain": "www.mobilityware.com",
+                "publisher": {
+                    "id": "4695",
+                    "name": "myCast Indirect"
+                },
+                "cattax": 1
+            },
+            "device": {
+                "dnt": 0,
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+                "ip": "107.127.56.35",
+                "geo": {
+                    "country": "USA",
+                    "region": "CA",
+                    "city": "Gardena",
+                    "zip": "90247",
+                    "type": 2,
+                    "lat": 33.8951,
+                    "lon": -118.291,
+                    "ipservice": 2
+                },
+                "make": "Apple",
+                "model": "Apple iPhone",
+                "os": "iOS",
+                "osv": "17.5.1",
+                "js": 1,
+                "devicetype": 4,
+                "lmt": 0,
+                "ext": {
+                    "is_app": 1
+                }
+            },
+            "user": {
+                "id": "0"
+            },
+            "at": 1,
+            "tmax": 250,
+            "cur": [
+                "USD"
+            ],
+            "bcat": [
+                "IAB23-1",
+                "IAB25-1",
+                "IAB25-2",
+                "IAB25-3",
+                "IAB25-4",
+                "IAB25-5",
+                "IAB25-6",
+                "IAB25-7",
+                "IAB26",
+                "IAB26-1",
+                "IAB26-2",
+                "IAB26-3",
+                "IAB26-4"
+            ],
+            "badv": [],
+            "source": {
+                "fd": 1,
+                "tid": "3a8f2858-015f-447e-b9fc-a1274f62dd8d",
+                "ext": {
+                    "schain": {
+                        "ver": "1.0",
+                        "complete": 1,
+                        "nodes": [
+                            {
+                                "asi": "my-cast.tv",
+                                "sid": "986649",
+                                "rid": "1066763933468941251",
+                                "hp": 1
+                            },
+                            {
+                                "asi": "smartadserver.com",
+                                "sid": "4695",
+                                "hp": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "regs": {
+                "ext": {
+                    "gdpr": 0,
+                    "us_privacy": "1YNN"
+                }
+            },
+            "cattax": 1
+        },
+        "partnerBidResponse": {
+            "id": "8e4aa250-7ed7-423e-b3ac-78043cc56c39",
+            "seatbid": [
+                {
+                    "bid": [
+                        {
+                            "id": "315354",
+                            "impid": "3abbdd16-4eb3-4c19-982f-1e2f1ab9dff9",
+                            "price": 2.5314,
+                            "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"3.0\"><Ad id=\"315354\"><Wrapper><AdSystem>RevX - EQUATIV </AdSystem><VASTAdTagURI><![CDATA[https://arg.atomex.net/?type=iframe&isSecure=1&ibposn=&sri=8e4aa250-7ed7-423e-b3ac-78043cc56c39&urid=131c7109a5745079d83c235a7c65b4df0ca459d8da79d9a348847&l=0&rt=1722589410&ag=627&pid=1&sid=502073933&cc=0&us=2062777&fp=0&li=1016&a=9104&aio=18785&al=79989&cr=315354&ivs=61554&co=229&re=65&ci=16014&me=0&dma=0&tz=-480&enc=0&ct=&pet=0&pu=1000&bp=${AUCTION_PRICE}&d=&height=1&width=1&pop_fcap=-1&pop_period=-1&atm_cvf=1&data=&ass=0&dc=3&asp=&sync=0&st=3&dv=&os=3&db=87&dm=934959&dt=3&dnt=1&rh=0&rw=0&aid=6f9017e424eaccfb1323728d93d4e99703f9087b&native=0&interstitial=1&osv=17.5.1&contype=&res=&id=&lid=&mn=10_3&pp=0.015188&pbp=3.037676&fbp=0.002531&protocol=2.5&as=1252465&sspSiteId=643856&wp=0.384554&wpl=7&viewability=-1&pdi=&video=1&mraid=0&country=USA&sd=395979574&skip=0&rewarded=-1&prodIds=&at=1&adpid=usev-190&vie=0&ip=107.127.56.35&an=Spider+Solitaire%3a+Card+Game&nativeVideo=0&startDelay=0&plc=5&lin=1&del=&ecs=-1&cb=-1&lmt=0&sdnt=0&skadn=0&lang=Others&dpsp=-1&bt=MTcyMjU4OTQxMCw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&cp1=&splash=-1&csi=30488&vw=320&vh=480&dvt=-1&ocs=&cssp=0&pt=3&mip=107.127.56.35&nw=-1&nh=-1&bui=-1&lcod=b&idee=0&tpv=0&brpi=4695&natp=0&nait=&nadt=&idfv=9914CBD5-8B34-48FE-9EA9-E70A5293A251&dmn=Apple+iPhone&spmv=&nativeIcon=0&ippt=0&ctvv=0&pc=90247&tgid=MTk0NjQ2NCAxMjM3Njk&sci=0&ua=Mozilla%2f5.0+%28iPhone%3b+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2f605.1.15+%28KHTML%2c+like+Gecko%29+Mobile%2f15E148&ieiu=1]]></VASTAdTagURI><Impression><![CDATA[https://trk.atomex.net/cgi-bin/tracker.fcgi/imp?pp=0.015188378281891346&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=9914CBD5-8B34-48FE-9EA9-E70A5293A251&ocs=&ag=627&interstitial=1&ip=107.127.56.35&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252465&re=65&at=1&fbp=0.00253139641803597&rh=0&aid=6f9017e424eaccfb1323728d93d4e99703f9087b&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c7109a5745079d83c235a7c65b4df0ca459d8da79d9a348847&sd=395979574&bt=MTcyMjU4OTQxMCw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.127.56.35&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=16014&brpi=4695&l=0&co=229&prodIds=&m=1&cr=315354&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=b&pbp=3.0376757016431637&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.3845544159412384&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90247&pdi=&csi=30488&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=&event=9]]></Impression><Creatives><Creative><Linear></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+                            "adid": "315354",
+                            "adomain": [
+                                "yodo1.com"
+                            ],
+                            "iurl": "https://cdn.atomex.net/creatives/9104/480x320/9104-video-3e581803-320x480.mp4",
+                            "cid": "315354",
+                            "crid": "315354",
+                            "cat": [
+                                "IAB1"
+                            ],
+                            "protocol": 6,
+                            "w": 320,
+                            "h": 480,
+                            "nurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/winnotify?pp=0.015188378281891346&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=9914CBD5-8B34-48FE-9EA9-E70A5293A251&ocs=&ag=627&interstitial=1&ip=107.127.56.35&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252465&re=65&at=1&fbp=0.00253139641803597&rh=0&aid=6f9017e424eaccfb1323728d93d4e99703f9087b&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c7109a5745079d83c235a7c65b4df0ca459d8da79d9a348847&sd=395979574&bt=MTcyMjU4OTQxMCw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.127.56.35&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=16014&brpi=4695&l=0&co=229&prodIds=&m=1&cr=315354&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=b&pbp=3.0376757016431637&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.3845544159412384&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90247&pdi=&csi=30488&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbw=",
+                            "lurl": "https://notify.atomex.net/cgi-bin/tracker.fcgi/losenotify?pp=0.015188378281891346&pt=3&dmn=Apple+iPhone&pu=1000&del=&contype=&adpid=usev-190&lmt=0&osv=17.5.1&vie=0&sci=0&dnb=0&idfv=9914CBD5-8B34-48FE-9EA9-E70A5293A251&ocs=&ag=627&interstitial=1&ip=107.127.56.35&al=79989&nait=&an=Spider+Solitaire%3A+Card+Game&nativeIcon=0&as=1252465&re=65&at=1&fbp=0.00253139641803597&rh=0&aid=6f9017e424eaccfb1323728d93d4e99703f9087b&viewability=-1&mraid=0&rw=0&aio=18785&skip=0&urid=131c7109a5745079d83c235a7c65b4df0ca459d8da79d9a348847&sd=395979574&bt=MTcyMjU4OTQxMCw5MTA0LDYyNyw1MDIwNzM5MzMAAAAAAAAAAAAAAAAAAAAAAAAAAAA*&native=0&mip=107.127.56.35&ippt=0&pgt=0&natp=0&cb=-1&cc=0&st=3&a=9104&cp1=&ci=16014&brpi=4695&l=0&co=229&prodIds=&m=1&cr=315354&s=0&atm_cvf=1&bui=-1&nativeVideo=0&ieiu=1&tpv=0&li=1016&db=87&dc=3&country=USA&ty=0&aelp=0&tz=-480&dm=934959&pid=1&ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_5_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148&dt=3&lin=1&protocol=2.5&ecs=-1&me=0&res=&mn=10_3&nadt=&wpl=7&vh=480&rewarded=-1&nh=-1&tmpFlag=0&lcod=b&pbp=3.0376757016431637&vw=320&ns=0&dpsp=&nw=-1&fp=0&idee=0&video=1&sid=502073933&wp=0.3845544159412384&lang=Others&sdnt=0&cssp=0&os=3&plc=5&ivs=61554&spmv=&pc=90247&pdi=&csi=30488&tgid=MTk0NjQ2NCAxMjM3Njk&dma=0&startDelay=0&splash=-1&pet=0&bp=${AUCTION_PRICE}&mbr=${AUCTION_MBR}&lrc=${AUCTION_LOSS}&mbw="
+                        }
+                    ],
+                    "seat": "Revx"
+                }
+            ],
+            "bidid": "315354",
+            "cur": "USD"
+        },
+        "partnerIsCalled": false,
+        "partnerRequestHasBuyerUId": false,
+        "partnerRequestState": 0,
+        "partnerTotalBids": 1,
+        "requestHeader": "Host: equativ-use.atomex.net\nAccept: application/json\nConnection: keep-alive\nAccept-Encoding: gzip, deflate\nx-openrtb-version: 2.5\ntraceparent: 00-15081932c812c2b317bd7e536615837d-0844bdcc0e594bff-00\n\r\nContent-Encoding: gzip\nContent-Type: application/json; charset=utf-8\nContent-Length: 1070\n",
+        "responseHeader": "Date: Fri, 02 Aug 2024 09:03:30 GMT\nConnection: keep-alive\n\r\nContent-Type: application/octet-stream\nContent-Length: 1816\nContent-Encoding: gzip\n",
+        "partnerResponseTime": 9.7208,
+        "partnerStatus": 0,
+        "auctionDatacenterId": 12,
+        "auctionFrontId": 284,
+        "bidStatusList": []
+    }
+]
